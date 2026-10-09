@@ -1,0 +1,16 @@
+{
+  "threshold": 0.64,
+  "margin": 0.1,
+  "secondary_min": 0.25,
+  "target_accuracy": 0.9,
+  "classes": [
+    "Drainage",
+    "Encroachment",
+    "Garbage",
+    "Other",
+    "Public Health",
+    "Roads",
+    "Streetlight",
+    "Water Supply"
+  ]
+}
