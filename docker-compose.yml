@@ -1,0 +1,15 @@
+# Optional free PostgreSQL for a "real database" setup:   docker compose up -d
+# Then in .env set  DATABASE_URL=postgresql+psycopg2://complaints:complaints@localhost:5432/complaints
+# and run   pip install psycopg2-binary
+services:
+  db:
+    image: postgres:16
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: complaints
+      POSTGRES_PASSWORD: complaints
+      POSTGRES_DB: complaints
+    ports: ["5432:5432"]
+    volumes: ["pgdata:/var/lib/postgresql/data"]
+volumes:
+  pgdata:

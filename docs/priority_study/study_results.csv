@@ -1,0 +1,101 @@
+﻿rating_id,text,your_rating,rating_claude,complaint_id,category,language,engine
+R001,स्कूल के सामने सड़क पर बहुत बड़ा गड्ढा है और व्यस्त समय में दुर्घटना का खतरा रहता है,high,high,101158,Roads,Hindi,medium
+R002,बस स्टॉप के पास हर सुबह कचरा फैला हुआ दिखाई देता है और सफाई नहीं होती,low,medium,101265,Garbage,Hindi,low
+R003,नगरपालिका से मिलने वाली सामान्य सेवाओं की जानकारी के लिए एक स्पष्ट हेल्प डेस्क होना चाहिए,low,low,100776,Other,Hindi,low
+R004,Our society has not received proper garbage collection for more than a week and residents are frustrated,medium,medium,100886,Garbage,English,low
+R005,The pole near the public garden has exposed wiring and the light is not working,high,critical,101309,Streetlight,English,low
+R006,अस्पताल के प्रवेश द्वार के पास अवैध ठेलों के कारण फुटपाथ पूरी तरह बंद हो गया है,low,medium,100370,Encroachment,Hindi,low
+R007,"सोसायटी के पास पानी निकासी बंद है, पिछले पांच दिनों से जलभराव बना हुआ है",medium,medium,100677,Drainage,Hindi,low
+R008,बस स्टॉप के पास निर्माण कार्य की सामग्री पूरे फुटपाथ पर रखी गई है,low,medium,101273,Encroachment,Hindi,low
+R009,"A shop has placed merchandise across the footpath near the school, leaving only a narrow passage",low,low,100270,Encroachment,English,low
+R010,सब्जी बाजार के पास कूड़ेदान भर गया है और कचरे ने फुटपाथ का कुछ हिस्सा घेर लिया है,medium,medium,100450,Garbage,Hindi,low
+R011,स्कूल की तरफ जाने वाले फुटपाथ पर कई ठेले सामान बेचने के लिए लगाए गए हैं,low,low,101085,Encroachment,Hindi,low
+R012,The buses on this route are often overcrowded during the evening and passengers are facing inconvenience,medium,low,100685,Other,English,low
+R013,बाजार के बाहर टूटा हुआ फुटपाथ बुजुर्गों को सड़क के किनारे चलने के लिए मजबूर कर रहा है,low,high,100875,Roads,Hindi,low
+R014,Continuous vehicle horns near the hospital are creating a disturbance for patients and visitors,medium,low,100917,Other,English,low
+R015,The footpath near the bus stand is broken and some paving blocks are completely missing,low,medium,101176,Roads,English,low
+R016,"हमारी गली में छह दिनों से कचरा नहीं उठाया गया है, कृपया तुरंत सफाई करवाएं",medium,medium,100952,Garbage,Hindi,low
+R017,"बस चालक निर्धारित समय पर बस नहीं रोकते, यात्रियों को काफी परेशानी होती है",medium,low,101151,Other,Hindi,low
+R018,बस स्टॉप के पास आवारा कुत्तों ने कल रात एक राहगीर को दौड़ाया और तुरंत कार्रवाई होनी चाहिए,medium,high,101088,Public Health,Hindi,low
+R019,The footpath near the market has been taken over by unauthorized stalls and pedestrians cannot pass easily,medium,low,101173,Encroachment,English,low
+R020,स्कूल और बस स्टैंड के बीच की सड़क पर कई गड्ढे हैं,high,medium,101053,Roads,Hindi,medium
+R021,स्कूल के पास कल सुबह से पानी नहीं आया है और समस्या अभी भी बनी हुई है,medium,medium,100830,Water Supply,Hindi,medium
+R022,सोसायटी के गेट के पास मरा हुआ जानवर पड़ा है और उसे हटाने के लिए कई बार शिकायत की गई है,high,medium,101236,Public Health,Hindi,low
+R023,स्कूल के पास दुकानदारों और ठेले वालों के कारण सड़क का रास्ता बहुत संकरा हो गया है,medium,low,100975,Encroachment,Hindi,low
+R024,I am confused about where to submit a request for a municipal certificate,low,low,101080,Other,English,low
+R025,The municipal bin near the hospital is overflowing and needs immediate emptying,high,medium,101197,Garbage,English,low
+R026,Several illegal stalls are blocking the pedestrian path near the bus stand during evening hours,low,low,100541,Encroachment,English,low
+R027,An open manhole is present in the middle of the road near the school and it is very dangerous at night,critical,critical,101012,Roads,English,critical
+R028,बस स्टॉप के पास सड़क पर गहरा गड्ढा दस दिनों से अधिक समय से बना हुआ है,high,medium,100401,Roads,Hindi,medium
+R029,बाजार के पास मरा हुआ जानवर दो दिनों से पड़ा है और किसी ने उसे अभी तक नहीं हटाया,high,medium,100722,Public Health,Hindi,low
+R030,"Please investigate the low water pressure near the bus stand, especially during morning hours",medium,medium,101027,Water Supply,English,low
+R031,स्कूल के पास गंदा पानी जमा होने से मच्छर और दुर्गंध की समस्या बढ़ गई है,high,medium,101060,Drainage,Hindi,medium
+R032,Water supply to the school area has been irregular for the past week,medium,medium,100838,Water Supply,English,medium
+R033,The main road outside the clinic has a deep pothole and an overflowing garbage bin nearby,high,medium,100821,Roads,English,medium
+R034,Our residential lane has a garbage pile that has been unattended for more than a week,high,medium,101310,Garbage,English,low
+R035,A dead animal near the market is creating a bad smell and attracting insects,high,medium,101118,Public Health,English,low
+R036,There is a serious mosquito problem near the community hall and children are unable to stay outside in the evening,medium,medium,101264,Public Health,English,low
+R037,The streetlight near the public garden is broken and the pathway becomes difficult to see after sunset,medium,medium,101243,Streetlight,English,low
+R038,सार्वजनिक उद्यान के पास शाम होते ही बहुत सारे मच्छर हो जाते हैं,medium,low,101159,Public Health,Hindi,low
+R039,हमारी सोसायटी के गेट के पास कई ठेले फुटपाथ पर खड़े रहते हैं और पैदल चलने की जगह नहीं बचती,medium,low,101097,Encroachment,Hindi,low
+R040,The garbage pile near the bus depot is getting larger every day and nobody has cleared it,high,medium,100781,Garbage,English,low
+R041,सार्वजनिक पुस्तकालय के पास खुले में कचरा फेंका जा रहा है और पूरा क्षेत्र गंदा दिख रहा है,medium,medium,101094,Garbage,Hindi,low
+R042,Our lane is full of uncollected garbage and residents are worried about hygiene,high,medium,100329,Garbage,English,low
+R043,Stray dogs are chasing motorcycles and pedestrians near the market every evening,high,high,100795,Public Health,English,low
+R044,A roadside vendor has extended the stall onto the footpath near the society gate,low,low,101249,Encroachment,English,low
+R045,"Our taps have been dry since last night, and the issue is affecting the entire residential lane",medium,medium,100667,Water Supply,English,low
+R046,"बस अड्डे के पास की स्ट्रीट लाइट ठीक करें, अंधेरे के कारण राहगीरों को काफी परेशानी हो रही है",medium,medium,100720,Streetlight,Hindi,low
+R047,सार्वजनिक पुस्तकालय के पास छह दिनों से पानी का दबाव बहुत कम है,medium,medium,100318,Water Supply,Hindi,low
+R048,"Please clean the drain near the bus stand, it has been overflowing since Monday",high,medium,101038,Drainage,English,low
+R049,चौराहे के पास ट्रैफिक सिग्नल और सड़क किनारे की लाइट दोनों की जांच की जरूरत है,medium,low,100654,Other,Hindi,low
+R050,अस्पताल के रास्ते में नाली बंद होने से पानी जमा है और मच्छरों की संख्या भी बढ़ गई है,high,medium,100274,Drainage,Hindi,medium
+R051,The roadside food stall near the market does not maintain proper cleanliness and food is kept uncovered,medium,medium,100061,Public Health,English,low
+R052,रात के समय आसपास से आने वाली तेज आवाज के कारण छोटे बच्चों की नींद खराब हो रही है,medium,low,101048,Other,Hindi,low
+R053,स्ट्रीट लाइट के खंभे से एक तार लटक रहा है और इसकी तुरंत जांच की जरूरत है,high,critical,100499,Streetlight,Hindi,critical
+R054,कॉलेज के प्रवेश द्वार के पास सड़क पर बड़ा गड्ढा है और विद्यार्थियों को रोज परेशानी होती है,high,medium,100678,Roads,Hindi,medium
+R055,"Please fix the water pipeline near the school, the leak has continued since last weekend",high,medium,100415,Water Supply,English,medium
+R056,"Tap water has a yellow colour and unpleasant odour, please arrange an inspection",high,medium,101269,Water Supply,English,low
+R057,There has been a mosquito problem in our lane for the past fifteen days and residents are requesting spraying,high,medium,100637,Public Health,English,low
+R058,"कृपया सार्वजनिक उद्यान के पास की स्ट्रीट लाइट ठीक करें, यह दस दिनों से बंद पड़ी है",medium,medium,100852,Streetlight,Hindi,low
+R059,बस स्टैंड के पास सड़क किनारे खाना बेचने वाला दुकानदार खाने को ढककर नहीं रखता,medium,low,100345,Public Health,Hindi,low
+R060,स्कूल के गेट के पास ठेले वालों ने फुटपाथ पर कब्जा कर लिया है और बच्चों को सड़क पर चलना पड़ता है,low,high,100828,Encroachment,Hindi,medium
+R061,सोसायटी के प्रवेश द्वार की स्ट्रीट लाइट अचानक बंद हो जाती है और गेट के पास अंधेरा हो जाता है,medium,medium,100981,Streetlight,Hindi,low
+R062,Late-night traffic noise near our lane has become difficult for residents to tolerate,medium,low,101296,Other,English,low
+R063,प्राथमिक स्कूल के पास सड़क बुरी तरह टूट गई है और अगली तेज बारिश से पहले इसकी मरम्मत जरूरी है,high,high,101277,Roads,Hindi,medium
+R064,The blocked drain outside the school is causing a foul smell and making the area unhygienic,high,medium,101251,Drainage,English,medium
+R065,स्कूल के पास कचरे का ढेर पांच दिनों से बढ़ता जा रहा है और तुरंत सफाई चाहिए,high,medium,100703,Garbage,Hindi,medium
+R066,The pipeline near the vegetable market is leaking and creating a large wet patch on the road,medium,medium,101202,Water Supply,English,low
+R067,A dead animal has been lying near the market for two days and nobody has removed it yet,high,medium,101023,Public Health,English,low
+R068,The traffic signal near the market is showing different signals at the same time,critical,high,101123,Other,English,low
+R069,"The market drain is blocked with mud and plastic, and water has started entering the shops",high,high,100912,Drainage,English,low
+R070,"Our society entrance has been flooded with dirty drainage water for three days, please send a cleaning team",high,medium,101192,Drainage,English,low
+R071,अस्पताल के बाहर खाने की दुकान के आसपास गंदगी है और पका हुआ खाना खुला रखा जाता है,high,medium,100947,Public Health,Hindi,medium
+R072,An open manhole outside the school has been left without a cover for nearly a week and is very dangerous,critical,critical,100385,Drainage,English,critical
+R073,The drain beside the hospital has been blocked since last week and stagnant water is attracting mosquitoes,high,medium,100816,Drainage,English,medium
+R074,Dirty water is overflowing from the drain near the school and spreading across the footpath,high,medium,100728,Drainage,English,medium
+R075,नगरपालिका स्कूल के पास पानी की सप्लाई तीन दिनों से बंद है,high,high,101106,Water Supply,Hindi,medium
+R076,Please tell me which municipal office I should contact for a document-related enquiry,low,low,100422,Other,English,low
+R077,स्कूल गेट के पास नाली का पानी पिछले तीन दिनों से जमा है और बदबू बहुत तेज है,high,medium,101026,Drainage,Hindi,medium
+R078,बाजार के पास कई अवैध दुकानें फुटपाथ पर लगी हैं और राहगीरों के लिए रास्ता बंद हो गया है,low,low,101146,Encroachment,Hindi,low
+R079,"सोसायटीच्या मागील बाजूस पाण्याची गळती सुरू आहे, ती दोन दिवसांपासून दुरुस्त झालेली नाही",medium,medium,100624,Water Supply,Hindi,low
+R080,बस सेवा कम होने के कारण कार्यालय जाने वाले लोगों को रोज अतिरिक्त समय लगाना पड़ता है,medium,low,100387,Other,Hindi,low
+R081,The road near the vegetable market is badly damaged and traffic is getting slower,high,medium,100349,Roads,English,low
+R082,An exposed wire from the streetlight is hanging close to the roadside and needs urgent inspection,critical,critical,101127,Streetlight,English,critical
+R083,"Three streetlights near the market are not working, leaving a long stretch of road completely dark",high,medium,100352,Streetlight,English,low
+R084,नगरपालिका कार्यालय में ऑनलाइन आवेदन के बाद भी दस्तावेज जमा करने के लिए बुलाया जा रहा है,low,low,101323,Other,Hindi,low
+R085,गेल्या आठवड्यात तक्रार करूनही नळाच्या पाण्याची दुर्गंधी कमी झालेली नाही,high,medium,101274,Water Supply,Hindi,low
+R086,पाण्याचा दाब कमी असल्यामुळे घरातील टाकी भरत नाही आणि रोज पाण्याची कमतरता भासते,medium,medium,101156,Water Supply,Hindi,low
+R087,"The food stall near the school has uncovered food, dirty utensils and many flies around the preparation area",high,medium,100323,Public Health,English,medium
+R088,A shop has extended its display area onto the public footpath near the hospital,medium,low,101066,Encroachment,English,low
+R089,The streetlight near the bus stand has stopped working after a power issue and has not been repaired,medium,medium,100956,Streetlight,English,low
+R090,"हमारे इलाके की नाली में बहुत ज्यादा गाद जमा हो गई है, सफाई की जरूरत है",medium,low,100546,Drainage,Hindi,low
+R091,हमारी गली के प्रवेश पर लगी लाइट पिछले सोमवार से बंद है और बुजुर्गों को रात में परेशानी होती है,high,medium,101171,Streetlight,Hindi,low
+R092,अस्पताल के पार्किंग क्षेत्र के पास कचरा जमा है और इसे तुरंत हटाया जाना चाहिए,medium,medium,101145,Garbage,Hindi,low
+R093,"Please arrange regular collection in our society, the garbage vehicle has missed our area several times this month",medium,medium,101086,Garbage,English,low
+R094,An uncovered manhole beside the school gate is a serious hazard for children walking home,high,critical,101312,Roads,English,critical
+R095,सोसायटी गेट के पास जमा पानी में मच्छर बढ़ रहे हैं,medium,medium,101254,Drainage,Hindi,low
+R096,An electric wire is visible from the damaged streetlight pole near the main road and requires immediate repair,critical,critical,100753,Streetlight,English,critical
+R097,Several vendors have placed their carts across the footpath near the bus stop,medium,low,100815,Encroachment,English,low
+R098,"Please fix the deep pothole near the bus stop, my scooter nearly fell into it yesterday",critical,high,100645,Roads,English,low
+R099,"बाजार वाली सड़क पर लगी दो स्ट्रीट लाइटें काम नहीं कर रही हैं, जिससे राहगीरों को रात में परेशानी होती है",medium,medium,101076,Streetlight,Hindi,low
+R100,The light outside the hospital entrance has been flickering for the last five days and needs repair,medium,low,100319,Streetlight,English,medium

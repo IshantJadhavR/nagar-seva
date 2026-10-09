@@ -1,0 +1,34 @@
+{
+  "model_A_template_only": {
+    "template_test": {
+      "macro_f1": 0.7760292938085612,
+      "macro_f1_English": 0.7531426826180919,
+      "macro_f1_Hindi": 0.7882580454211285
+    },
+    "external_test": {
+      "macro_f1": 0.8017702645605527,
+      "macro_f1_English": 0.824632329303052,
+      "macro_f1_Hindi": 0.7771108372043285
+    }
+  },
+  "model_B_template_plus_pool": {
+    "template_test": {
+      "macro_f1": 0.8146820343317334,
+      "macro_f1_English": 0.7894614608828873,
+      "macro_f1_Hindi": 0.8279333235708597
+    },
+    "external_test": {
+      "macro_f1": 0.8531115468083721,
+      "macro_f1_English": 0.8369250117880278,
+      "macro_f1_Hindi": 0.8694823884408152
+    }
+  },
+  "threshold": 0.64,
+  "ece_validation": 0.03537626038346124,
+  "ece_external": 0.030011184490455887,
+  "coverage_accuracy_external_at_threshold": {
+    "threshold": 0.64,
+    "coverage": 0.7083333333333334,
+    "accuracy": 0.9222689075630253
+  }
+}

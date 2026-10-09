@@ -1,0 +1,19 @@
+# ML
+pandas
+scikit-learn
+joblib
+matplotlib
+# Backend
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+bcrypt
+PyJWT
+python-multipart
+Pillow
+python-dotenv
+psycopg2-binary      # PostgreSQL driver (only used if DATABASE_URL points to PostgreSQL)
+# Tests
+pytest
+httpx

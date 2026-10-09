@@ -1,0 +1,588 @@
+{
+  "app": {
+    "title": "Nagar Seva",
+    "tagline": "Civic complaint triage",
+    "logout": "Log out",
+    "language": "Language",
+    "profile": "My account",
+    "footer": "Built as a final-year project · English + Hindi · Times shown in IST"
+  },
+  "nav": {
+    "home": "Home",
+    "new": "New complaint",
+    "mine": "My complaints",
+    "assigned": "Assigned to me",
+    "queue": "Review queue",
+    "analytics": "Analytics",
+    "settings": "Departments",
+    "login": "Log in",
+    "register": "Sign up"
+  },
+  "landing": {
+    "eyebrow": "For citizens",
+    "h1": "Report a civic problem. We route it to the right team.",
+    "sub": "Write in English or Hindi. Our system understands the problem, picks the department, rates how urgent it is, and keeps you updated until it is fixed.",
+    "cta": "Report a problem",
+    "cta2": "I already have an account",
+    "ctaGo": "Go to my dashboard",
+    "statTotal": "Complaints received",
+    "statDone": "Resolved",
+    "statAuto": "Routed automatically",
+    "howEyebrow": "How it works",
+    "howTitle": "From your phone to the right desk in seconds",
+    "s1t": "Describe it",
+    "s1d": "Type in English or Hindi, drop a pin on the map and add a photo if you can.",
+    "s2t": "We understand it",
+    "s2d": "The system finds the category, the department and how urgent it is, and shows you why.",
+    "s3t": "Officers fix it",
+    "s3d": "The right officer is assigned. You follow every step and confirm when it is really fixed.",
+    "catEyebrow": "What you can report",
+    "catTitle": "Eight kinds of everyday problems",
+    "trustEyebrow": "Fair and explainable",
+    "trustTitle": "Not a black box",
+    "t1t": "Humans stay in charge",
+    "t1d": "If the system is not sure, or the problem is dangerous, a person decides. Nothing risky is auto-routed.",
+    "t2t": "Priority you can read",
+    "t2d": "Every priority comes with a points breakdown: category, danger words, location, duration and repeat reports.",
+    "t3t": "Your complaint stays yours",
+    "t3d": "Only you, the assigned officer and the admin can see your complaint. Passwords are stored hashed.",
+    "finalTitle": "See something broken? Tell us.",
+    "finalSub": "Creating an account takes under a minute.",
+    "rolesEyebrow": "Choose your role",
+    "rolesTitle": "Three kinds of users, three separate doors",
+    "rolesSub": "Everyone uses the same system but sees different screens. Pick the one that describes you.",
+    "role": {
+      "citizen": {
+        "who": "Anyone who wants to report a problem in their area.",
+        "can": [
+          "Report a problem in English or Hindi",
+          "Pin the place on a map and add a photo",
+          "Track every step until it is fixed"
+        ],
+        "login": "Citizen login"
+      },
+      "officer": {
+        "who": "Municipal staff who fix the problems.",
+        "can": [
+          "See complaints assigned to you",
+          "Mark work started and resolved",
+          "Report a wrong location or ask for help"
+        ],
+        "login": "Officer login"
+      },
+      "admin": {
+        "who": "The person who supervises the whole system.",
+        "can": [
+          "Decide uncertain and urgent complaints",
+          "Correct locations and answer officers",
+          "See analytics and manage departments"
+        ],
+        "login": "Admin login"
+      }
+    },
+    "photo": {
+      "eyebrow": "Real problems, real places",
+      "title": "The everyday problems citizens report",
+      "sub": "From potholes to blocked drains, every one of these can be reported in a minute and followed until it is fixed.",
+      "hero": "Municipal office and a street being served",
+      "pothole": "Potholes on roads",
+      "drainage": "Blocked drains and waterlogging",
+      "garbage": "Uncollected garbage",
+      "streetlight": "Streetlights not working",
+      "water": "Water pipe leaks"
+    },
+    "quote": {
+      "pothole": "Big pothole near the school gate, bikes slipping for 3 days",
+      "drainage": "Drain blocked, dirty water on the road since morning",
+      "garbage": "Garbage not collected in our lane for a week",
+      "streetlight": "Streetlight in our lane has not worked for days",
+      "water": "Water pipe leaking on the main road, a lot of water wasted"
+    },
+    "dept": {
+      "pothole": "Goes to: Public Works Department",
+      "drainage": "Goes to: Drainage and Sewerage",
+      "garbage": "Goes to: Solid Waste Management",
+      "streetlight": "Goes to: Electrical Department",
+      "water": "Goes to: Water Supply Department"
+    },
+    "badge": {
+      "a1": "Complaint received",
+      "a2": "Routed to Public Works in seconds",
+      "b": "Write in your language"
+    }
+  },
+  "auth": {
+    "login": "Log in",
+    "register": "Create account",
+    "name": "Full name",
+    "email": "Email",
+    "password": "Password",
+    "noAccount": "New here?",
+    "haveAccount": "Already have an account?",
+    "passwordHint": "At least 8 characters",
+    "welcomeBack": "Welcome back",
+    "loginSub": {
+      "citizen": "Log in to report problems and track your complaints.",
+      "officer": "For municipal staff. Log in to see the complaints assigned to you.",
+      "admin": "For administrators. Log in to review, route and manage complaints."
+    },
+    "createTitle": "Create your citizen account",
+    "createSub": "Free. Use your own email and a password only you know.",
+    "sideTitle": "Every complaint, tracked to the end",
+    "sideSub": "Submit once. See who is handling it, what was done and when.",
+    "demo": "Demo accounts for this project",
+    "showPw": "Show password",
+    "hidePw": "Hide password",
+    "phone": "Mobile number (optional)",
+    "phoneHint": "Only the admin can see it. It is shared with an officer only if the officer cannot find your location and the admin decides to share it for that one complaint.",
+    "whoAreYou": "Who are you?",
+    "loginAs": {
+      "citizen": "Citizen login",
+      "officer": "Officer login",
+      "admin": "Admin login"
+    },
+    "staffNote": "Officer and admin accounts are created by the administration. They cannot be created here.",
+    "staffAsk": "Are you an officer or admin?",
+    "staffLogin": "Log in here"
+  },
+  "form": {
+    "title": "Report a problem",
+    "sub": "The more detail you give, the better we route it. Mention how long it has lasted and anything dangerous.",
+    "step1": "What is the problem?",
+    "step2": "Where is it?",
+    "step3": "Anything else we should know?",
+    "text": "Describe the problem in English or Hindi",
+    "placeholder": "e.g. Big pothole outside the school gate, bikes have been slipping for 3 days",
+    "chars": "characters",
+    "preview": "See AI prediction",
+    "predicting": "Analysing...",
+    "submit": "Submit complaint",
+    "submitting": "Submitting...",
+    "pin": "Click the map to pin the exact spot",
+    "myLocation": "Use my location",
+    "address": "Address or landmark (optional)",
+    "ward": "Ward (optional)",
+    "nearSchool": "Near a school",
+    "nearHospital": "Near a hospital",
+    "mainRoad": "On a main road",
+    "photo": "Add a photo (optional, max 5 MB)",
+    "submitted": "Complaint submitted. You can follow it under My complaints.",
+    "tooShort": "Please write at least 10 characters.",
+    "locationFail": "Could not get your location. Click on the map instead.",
+    "photoFail": "Complaint saved, but the photo failed: ",
+    "flagsHint": "These tell us who may be at risk and raise the priority.",
+    "previewNote": "The map flags (school, hospital, main road) and your pin add to the priority when you submit."
+  },
+  "pred": {
+    "category": "Category",
+    "confidence": "Confidence",
+    "department": "Department",
+    "priority": "Priority",
+    "autoRoute": "Would be auto-routed",
+    "review": "Would go to human review",
+    "why": "Why",
+    "secondary": "Possible second category",
+    "breakdown": "Priority breakdown",
+    "details": "Show details",
+    "hide": "Hide details",
+    "critical": "Critical emergency",
+    "score": "Priority score",
+    "scoreHelp": "Points add up to a score. 55 or more is High, 30 to 54 is Medium, below 30 is Low. Emergencies are Critical.",
+    "total": "Total"
+  },
+  "bd": {
+    "category_base_risk": "Category risk",
+    "danger_words": "Danger words",
+    "location_context": "Location (school / hospital / main road)",
+    "duration": "How long it has lasted",
+    "repeat_reports": "Repeat reports nearby",
+    "policy_adjustment": "Priority rule applied"
+  },
+  "complaint": {
+    "route": "Routing",
+    "auto": "Auto-routed",
+    "manual": "Routed by admin",
+    "reviewMode": "Sent to human review",
+    "officer": "Officer",
+    "unassigned": "Not assigned yet",
+    "history": "Timeline",
+    "empty": "Nothing here yet.",
+    "emptyMine": "You have not reported anything yet.",
+    "emptyOfficer": "No complaints assigned to you.",
+    "confirm": "Confirm it is fixed",
+    "reopen": "Not fixed, reopen",
+    "rating": "Rating",
+    "feedback": "Feedback (optional)",
+    "reopenNote": "Why is it not fixed?",
+    "send": "Send",
+    "cancel": "Cancel",
+    "urgent": "URGENT",
+    "photo": "Photo",
+    "created": "Submitted",
+    "allStatus": "All",
+    "open": "Open",
+    "needsYou": "Needs your confirmation"
+  },
+  "officer": {
+    "start": "Start work",
+    "resolve": "Mark resolved",
+    "note": "What was done? (required)",
+    "all": "All",
+    "title": "Complaints assigned to me",
+    "sub": "Sorted by priority. Critical and High come first.",
+    "dept": "Department",
+    "ward": "Ward",
+    "kAssigned": "To start",
+    "kProgress": "In progress",
+    "kResolved": "Resolved",
+    "kReopened": "Reopened",
+    "wrong": "Location is wrong",
+    "wrongSent": "Reported: wrong location",
+    "wrongHint": "Tell the admin that the problem is not at this pin",
+    "wrongNote": "Optional note (used if you report a wrong location)",
+    "askHelp": "I cannot find the place - ask admin for help",
+    "helpReason": "What is the difficulty? (for example: landmark not found, pin is in an empty field)",
+    "sendHelp": "Send to admin",
+    "helpWaiting": "Waiting for the admin's reply",
+    "helpAnswered": "Admin replied",
+    "phoneHidden": "The phone number is shown only while the complaint is open."
+  },
+  "admin": {
+    "queueTitle": "Review queue",
+    "queueSub": "Complaints the system was not sure about, or that are emergencies. Pick the right category and send them on.",
+    "route": "Send to department",
+    "chooseCategory": "Correct category",
+    "model": "Model said",
+    "empty": "The review queue is empty. Nice work.",
+    "mapping": "Departments and routing",
+    "mappingHint": "Choose which department handles each category. Changes apply to new complaints immediately. No model retraining needed.",
+    "officersTitle": "Officers",
+    "officersHint": "Staff accounts are created by the project team. Ask them to add or remove officers.",
+    "analyticsTitle": "Analytics",
+    "analyticsSub": "A live picture of every complaint in the system.",
+    "total": "Total complaints",
+    "open": "Open now",
+    "resolutionRate": "Resolution rate",
+    "avgTime": "Avg. time to resolve",
+    "autoRate": "Routed automatically",
+    "avgConf": "Average confidence",
+    "urgent": "Urgent and open",
+    "avgRating": "Citizen rating",
+    "decisions": "Admin decisions",
+    "changed": "Admin changed the model's answer",
+    "perDay": "Complaints per day (last 14 days)",
+    "byCategory": "By category",
+    "byPriority": "By priority",
+    "byStatus": "By status",
+    "byDepartment": "By department",
+    "hotspots": "Complaint hotspots",
+    "noHotspots": "No located complaints yet.",
+    "saved": "Saved",
+    "hours": "h",
+    "noData": "No data yet",
+    "autoHelp": "Share of complaints sent to an officer without a human decision.",
+    "changedHelp": "Shows where the model is weak. These become training data.",
+    "locTitle": "Location problems",
+    "locSub": "The officer or the map checks found that these pins may be wrong. Click the correct place and save; the priority is recalculated.",
+    "fixHint": "Click the correct place on the map.",
+    "fixNote": "Note (optional)",
+    "fixSave": "Save new location",
+    "helpTitle": "Officer needs help",
+    "noPhone": "This citizen did not give a phone number.",
+    "helpMsg": "Message for the officer (optional)",
+    "sharePhone": "Share this citizen's phone number with the officer for this complaint only (this is recorded).",
+    "sendReply": "Send reply",
+    "reject": "Reject / remove complaint",
+    "rejectHint": "Use this for fake, duplicate or impossible-to-find complaints. The citizen will see your reason. The record is kept.",
+    "rejectReason": "Reason (shown to the citizen)",
+    "rejectConfirm": "Reject complaint"
+  },
+  "profile": {
+    "title": "My account",
+    "role": "Role",
+    "joined": "Member since",
+    "dept": "Department",
+    "ward": "Ward",
+    "pwTitle": "Change password",
+    "current": "Current password",
+    "new": "New password",
+    "update": "Update password",
+    "done": "Password updated.",
+    "phoneTitle": "Mobile number",
+    "phoneSave": "Save number",
+    "phoneSaved": "Saved."
+  },
+  "status": {
+    "in_review": "In review",
+    "assigned": "Assigned",
+    "in_progress": "In progress",
+    "resolved": "Resolved",
+    "reopened": "Reopened",
+    "closed": "Closed",
+    "submitted": "Submitted",
+    "rejected": "Rejected"
+  },
+  "prio": {
+    "low": "Low",
+    "medium": "Medium",
+    "high": "High",
+    "critical": "Critical"
+  },
+  "cat": {
+    "Roads": "Roads",
+    "Garbage": "Garbage",
+    "Water Supply": "Water Supply",
+    "Drainage": "Drainage",
+    "Streetlight": "Streetlight",
+    "Public Health": "Public Health",
+    "Encroachment": "Encroachment",
+    "Other": "Other"
+  },
+  "catDesc": {
+    "Roads": "Potholes, broken roads",
+    "Garbage": "Uncollected waste, overflowing bins",
+    "Water Supply": "No water, leaks, bad quality",
+    "Drainage": "Blocked drains, waterlogging",
+    "Streetlight": "Lights not working, bare wires",
+    "Public Health": "Mosquitoes, dead animals, unsafe food",
+    "Encroachment": "Stalls blocking footpaths",
+    "Other": "Anything else"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "save": "Save",
+    "back": "Back",
+    "or": "or",
+    "cancel": "Cancel"
+  },
+  "roles": {
+    "citizen": "Citizen",
+    "officer": "Officer",
+    "admin": "Admin"
+  },
+  "geo": {
+    "checking": "Checking this spot on the map…",
+    "outside": "This pin is outside the supported service area. Please move it, or the complaint cannot be submitted.",
+    "mapSays": "Map says this place is",
+    "useAddress": "Use this as my address",
+    "mismatch": "The address you typed looks about {{km}} km from the pin. Please check one of them.",
+    "school": "School/college {{d}} m away",
+    "hospital": "Hospital/clinic {{d}} m away",
+    "mainRoad": "On a main road",
+    "nothing": "No school, hospital or main road found nearby on the map.",
+    "priorityNote": "Map data adds +{{p}} priority points (you do not need to mention it).",
+    "unavailable": "Map details are not available right now. Your complaint will still be accepted.",
+    "photoNoGps": "This photo has no location stored in it (many apps remove it). Use the pin above.",
+    "photoSays": "The photo was taken near",
+    "photoFar": "This is {{m}} from your pin.",
+    "usePhotoPin": "Use the photo's location as my pin",
+    "evidenceTitle": "From map data",
+    "flag": {
+      "wrong": "Officer reported that the location is wrong. Waiting for the admin to correct it.",
+      "check_address": "The typed address and the pin look far apart.",
+      "photo_far": "The photo's GPS location is far from the pin.",
+      "help": "The officer asked the admin for help finding this place."
+    }
+  },
+  "guide": {
+    "link": "How to use this portal (user guide)",
+    "navShort": "User guide",
+    "eyebrow": "User guide",
+    "title": "How to use Nagar Seva",
+    "intro": "Nagar Seva helps you report everyday civic problems such as potholes, garbage or water leaks. This page explains who does what and how to use each screen, step by step.",
+    "whoTitle": "Who is who?",
+    "pickHint": "Use the cards above to switch between the three roles.",
+    "who": {
+      "citizen": "You report a problem and follow it until it is fixed. Anyone can create a citizen account.",
+      "officer": "You fix the problems assigned to you. Your account is given by the administration.",
+      "admin": "You supervise: you decide doubtful complaints, fix wrong locations and watch the numbers. Your account is given by the project team."
+    },
+    "citizen": {
+      "title": "For citizens: how to report a problem",
+      "steps": [
+        {
+          "t": "Create your account",
+          "d": "Click Sign up. Enter your name, email and a password of at least 8 characters. A mobile number is optional; only the admin can see it."
+        },
+        {
+          "t": "Open Report a problem",
+          "d": "After logging in you land on the report form. You can write in English or Hindi."
+        },
+        {
+          "t": "Describe the problem",
+          "d": "Say what is wrong, where, and for how long. Mention anything dangerous, for example children or an open hole. Example: Big pothole outside the school gate, bikes slipping for 3 days."
+        },
+        {
+          "t": "Show where it is",
+          "d": "Click the map to drop a pin, or press Use my location. The map shows the address it found; press Use this as my address if it is right. You can also type the address yourself."
+        },
+        {
+          "t": "Add a photo (optional)",
+          "d": "A clear photo helps the officer. JPG, PNG or WebP, up to 5 MB. If the photo has its location saved, we can compare it with your pin."
+        },
+        {
+          "t": "Preview, then submit",
+          "d": "Press Preview to see the category, department and priority the system suggests. Then press Submit."
+        },
+        {
+          "t": "Track your complaint",
+          "d": "Open My complaints. Click Details to see the priority points, the officer and the history of every step."
+        },
+        {
+          "t": "Confirm or reopen",
+          "d": "When the officer marks it Resolved, check the place. If it is fixed, confirm and rate it. If not, reopen it and tell us what is still wrong."
+        }
+      ],
+      "tips": [
+        "One complaint per problem, with a clear place.",
+        "Write the real danger (children, traffic, water, fire). It raises the priority honestly.",
+        "If the pin is wrong, click the map again before you submit.",
+        "Never share passwords with anyone."
+      ]
+    },
+    "officer": {
+      "title": "For officers: how to handle a complaint",
+      "steps": [
+        {
+          "t": "Log in as Officer",
+          "d": "Use the Officer tab on the login page. Your account is created by the administration."
+        },
+        {
+          "t": "Open Assigned to me",
+          "d": "You see complaints for your department and ward, with the most urgent first. The coloured bar shows priority."
+        },
+        {
+          "t": "Read the details",
+          "d": "Click Details to see why it got this priority, the address, the photo and the history."
+        },
+        {
+          "t": "Start work",
+          "d": "Press Start work so the citizen knows someone is on it."
+        },
+        {
+          "t": "If the place is wrong",
+          "d": "Press Location is wrong. The admin will correct the pin."
+        },
+        {
+          "t": "If you cannot find the place",
+          "d": "Press I cannot find the place and write the difficulty. The admin can reply and may share the citizen's phone number for this one complaint."
+        },
+        {
+          "t": "Resolve with a note",
+          "d": "When done, write what you did and press Resolve. The citizen then confirms or reopens."
+        }
+      ],
+      "tips": [
+        "The citizen's phone number is visible only if the admin shares it, and only while the complaint is open.",
+        "Use the note to say exactly what was done; the citizen reads it.",
+        "Critical complaints are shown first; handle them before others."
+      ]
+    },
+    "admin": {
+      "title": "For admins: how to supervise",
+      "steps": [
+        {
+          "t": "Log in as Admin",
+          "d": "Use the Admin tab on the login page."
+        },
+        {
+          "t": "Review queue",
+          "d": "Complaints the system was unsure about, or that are dangerous, wait here. Choose the right category; the department follows automatically."
+        },
+        {
+          "t": "Location problems",
+          "d": "Complaints with a doubtful pin appear here. Click the correct place on the map and save. Priority is recalculated."
+        },
+        {
+          "t": "Answer help requests",
+          "d": "When an officer cannot find a place, reply with a message. You may tick the box to share the citizen's phone number for that complaint; this is recorded."
+        },
+        {
+          "t": "Reject if needed",
+          "d": "Fake, duplicate or unreachable complaints can be rejected with a reason. The record is kept and the citizen sees the reason."
+        },
+        {
+          "t": "Analytics",
+          "d": "See totals, resolution rate, busiest areas and how often the system routed automatically."
+        },
+        {
+          "t": "Departments",
+          "d": "Change which department handles each category. No retraining is needed."
+        }
+      ],
+      "tips": [
+        "Each routing decision you make is saved and can later improve the model.",
+        "Share a phone number only when it is really needed.",
+        "Check Location problems daily."
+      ]
+    },
+    "cta": {
+      "citizen": "Create a citizen account",
+      "officer": "Go to officer login",
+      "admin": "Go to admin login"
+    },
+    "tipsTitle": "Good to know",
+    "statusTitle": "What each status means",
+    "status": {
+      "in_review": "The system was not sure, or the case is dangerous. The admin is deciding where it goes.",
+      "assigned": "Sent to a department and an officer. Work has not started.",
+      "in_progress": "The officer is working on it.",
+      "resolved": "The officer says it is fixed. Waiting for the citizen to confirm.",
+      "reopened": "The citizen said it is not fixed. Back with the officer.",
+      "closed": "The citizen confirmed the fix. Finished.",
+      "rejected": "The admin could not accept this complaint. The reason is in the history."
+    },
+    "prioTitle": "What the priority levels mean",
+    "prioIntro": "Priority is a score built from the type of problem, danger words, nearby schools or hospitals, how long it has lasted and repeated reports. You can see every point in Details.",
+    "priorities": [
+      {
+        "k": "Low",
+        "d": "Needs fixing, but not risky."
+      },
+      {
+        "k": "Medium",
+        "d": "Affects daily life; should be handled soon."
+      },
+      {
+        "k": "High",
+        "d": "Risk to health or safety, or a main road, school or hospital area."
+      },
+      {
+        "k": "Critical",
+        "d": "Immediate danger, for example an open manhole. A person always looks at these first."
+      }
+    ],
+    "faqTitle": "Common questions",
+    "faq": [
+      {
+        "q": "Which languages can I use?",
+        "a": "English and Hindi."
+      },
+      {
+        "q": "Who can see my complaint?",
+        "a": "You, the officer assigned to it, and the admin. Other citizens cannot."
+      },
+      {
+        "q": "Why did my complaint go to review?",
+        "a": "The system was not sure enough, the problem looked dangerous, or it was marked Other. A person then decides, which is the safe choice."
+      },
+      {
+        "q": "Do I have to give my phone number?",
+        "a": "No, it is optional. If you give it, only the admin sees it, and an officer sees it only if the admin shares it for one complaint."
+      },
+      {
+        "q": "I forgot my password.",
+        "a": "Password reset by email is not available yet. If you are logged in you can change it on your Profile page; otherwise ask the administration."
+      },
+      {
+        "q": "I put the pin in the wrong place.",
+        "a": "Before submitting, click the map again. After submitting, the officer or admin can correct the location."
+      },
+      {
+        "q": "Why is the time shown differently?",
+        "a": "All times are shown in Indian Standard Time."
+      }
+    ]
+  }
+}

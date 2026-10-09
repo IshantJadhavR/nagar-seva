@@ -1,0 +1,101 @@
+﻿rating_id,complaint_id,category,language
+R001,101158,Roads,Hindi
+R002,101265,Garbage,Hindi
+R003,100776,Other,Hindi
+R004,100886,Garbage,English
+R005,101309,Streetlight,English
+R006,100370,Encroachment,Hindi
+R007,100677,Drainage,Hindi
+R008,101273,Encroachment,Hindi
+R009,100270,Encroachment,English
+R010,100450,Garbage,Hindi
+R011,101085,Encroachment,Hindi
+R012,100685,Other,English
+R013,100875,Roads,Hindi
+R014,100917,Other,English
+R015,101176,Roads,English
+R016,100952,Garbage,Hindi
+R017,101151,Other,Hindi
+R018,101088,Public Health,Hindi
+R019,101173,Encroachment,English
+R020,101053,Roads,Hindi
+R021,100830,Water Supply,Hindi
+R022,101236,Public Health,Hindi
+R023,100975,Encroachment,Hindi
+R024,101080,Other,English
+R025,101197,Garbage,English
+R026,100541,Encroachment,English
+R027,101012,Roads,English
+R028,100401,Roads,Hindi
+R029,100722,Public Health,Hindi
+R030,101027,Water Supply,English
+R031,101060,Drainage,Hindi
+R032,100838,Water Supply,English
+R033,100821,Roads,English
+R034,101310,Garbage,English
+R035,101118,Public Health,English
+R036,101264,Public Health,English
+R037,101243,Streetlight,English
+R038,101159,Public Health,Hindi
+R039,101097,Encroachment,Hindi
+R040,100781,Garbage,English
+R041,101094,Garbage,Hindi
+R042,100329,Garbage,English
+R043,100795,Public Health,English
+R044,101249,Encroachment,English
+R045,100667,Water Supply,English
+R046,100720,Streetlight,Hindi
+R047,100318,Water Supply,Hindi
+R048,101038,Drainage,English
+R049,100654,Other,Hindi
+R050,100274,Drainage,Hindi
+R051,100061,Public Health,English
+R052,101048,Other,Hindi
+R053,100499,Streetlight,Hindi
+R054,100678,Roads,Hindi
+R055,100415,Water Supply,English
+R056,101269,Water Supply,English
+R057,100637,Public Health,English
+R058,100852,Streetlight,Hindi
+R059,100345,Public Health,Hindi
+R060,100828,Encroachment,Hindi
+R061,100981,Streetlight,Hindi
+R062,101296,Other,English
+R063,101277,Roads,Hindi
+R064,101251,Drainage,English
+R065,100703,Garbage,Hindi
+R066,101202,Water Supply,English
+R067,101023,Public Health,English
+R068,101123,Other,English
+R069,100912,Drainage,English
+R070,101192,Drainage,English
+R071,100947,Public Health,Hindi
+R072,100385,Drainage,English
+R073,100816,Drainage,English
+R074,100728,Drainage,English
+R075,101106,Water Supply,Hindi
+R076,100422,Other,English
+R077,101026,Drainage,Hindi
+R078,101146,Encroachment,Hindi
+R079,100624,Water Supply,Hindi
+R080,100387,Other,Hindi
+R081,100349,Roads,English
+R082,101127,Streetlight,English
+R083,100352,Streetlight,English
+R084,101323,Other,Hindi
+R085,101274,Water Supply,Hindi
+R086,101156,Water Supply,Hindi
+R087,100323,Public Health,English
+R088,101066,Encroachment,English
+R089,100956,Streetlight,English
+R090,100546,Drainage,Hindi
+R091,101171,Streetlight,Hindi
+R092,101145,Garbage,Hindi
+R093,101086,Garbage,English
+R094,101312,Roads,English
+R095,101254,Drainage,Hindi
+R096,100753,Streetlight,English
+R097,100815,Encroachment,English
+R098,100645,Roads,English
+R099,101076,Streetlight,Hindi
+R100,100319,Streetlight,English

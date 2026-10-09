@@ -1,0 +1,46 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+/* ---- Design tokens: two brand colours (civic teal + saffron), one ink colour, two fonts ---- */
+@theme {
+  --font-display: "Plus Jakarta Sans Variable", "Noto Sans Devanagari", system-ui, sans-serif;
+  --font-sans: "Inter Variable", "Noto Sans Devanagari", system-ui, sans-serif;
+
+  --color-brand-50: #effaf8;  --color-brand-100: #d3f3ee; --color-brand-200: #a8e6dd; --color-brand-300: #74d2c8;
+  --color-brand-400: #3fb8ad; --color-brand-500: #1f9c92; --color-brand-600: #157d77; --color-brand-700: #146461;
+  --color-brand-800: #144f4e; --color-brand-900: #143f3f; --color-brand-950: #082828;
+
+  --color-saffron-50: #fff8ec;  --color-saffron-100: #ffefd0; --color-saffron-200: #ffdc9f; --color-saffron-300: #ffc368;
+  --color-saffron-400: #ffa733; --color-saffron-500: #f98b0b; --color-saffron-600: #dd6d06; --color-saffron-700: #b75009;
+
+  --color-ink: #0f1b2d;       /* dark text everywhere */
+  --color-ink-soft: #3b4a5e;  /* secondary text, still readable */
+  --color-line: #dfe6ee;
+  --color-canvas: #f6f9fb;
+}
+
+html { scroll-behavior: smooth; }
+body { @apply bg-canvas text-ink antialiased; font-family: var(--font-sans); font-size: 16px; line-height: 1.6; }
+h1, h2, h3, h4 { font-family: var(--font-display); @apply font-bold tracking-tight text-ink; }
+:focus-visible { outline: 3px solid var(--color-saffron-400); outline-offset: 2px; border-radius: 6px; }
+
+/* ---- Buttons: one shape, one size scale ---- */
+.btn { @apply inline-flex cursor-pointer items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold transition disabled:cursor-not-allowed disabled:opacity-50; }
+.btn-lg { @apply px-6 py-3.5 text-base; }
+.btn-primary { @apply bg-brand-700 text-white shadow-sm hover:bg-brand-800; }
+.btn-accent { @apply bg-saffron-500 text-ink shadow-sm hover:bg-saffron-400; }
+.btn-ghost { @apply border border-line bg-white text-ink hover:border-brand-300 hover:bg-brand-50; }
+.btn-danger { @apply bg-rose-700 text-white hover:bg-rose-800; }
+
+/* ---- Form + surfaces ---- */
+.input { @apply w-full rounded-xl border border-line bg-white px-3.5 py-2.5 text-base text-ink placeholder:text-slate-400 transition focus:border-brand-500 focus:outline-none focus:ring-4 focus:ring-brand-100; }
+.card { @apply rounded-2xl border border-line bg-white p-5 shadow-[0_1px_2px_rgba(15,27,45,0.04),0_8px_24px_-12px_rgba(15,27,45,0.10)] sm:p-6; }
+.label { @apply mb-1.5 block text-sm font-semibold text-ink; }
+.hint { @apply mt-1 text-sm text-ink-soft; }
+.chip { @apply inline-flex items-center gap-1.5 rounded-full px-2.5 py-1 text-xs font-semibold; }
+.eyebrow { @apply text-sm font-bold uppercase tracking-[0.14em] text-brand-700; }
+.section { @apply mx-auto w-full max-w-6xl px-4 sm:px-6; }
+
+/* Leaflet sits under the sticky header */
+.leaflet-container { font-family: var(--font-sans); }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; scroll-behavior: auto !important; } }

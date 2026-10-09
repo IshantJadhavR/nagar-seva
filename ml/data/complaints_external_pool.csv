@@ -1,0 +1,762 @@
+﻿complaint_id,text,language,category,department,secondary_category,split,source
+200001,"मुख्य बाजार में बारिश का पानी निकलने में बहुत समय लग रहा है, नाली की जांच करवाएं",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200002,बसों की कमी के कारण सुबह के समय बहुत ज्यादा भीड़ हो जाती है,Hindi,Other,Admin Review,,train_extra,llm_external
+200003,सोसायटी के पीछे की नाली पिछले चार दिनों से बंद है और बदबू आने लगी है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200004,सब्जी बाजार के पास सड़क पूरी तरह गड्ढों से भर गई है और तत्काल मरम्मत चाहिए,Hindi,Roads,Public Works Department,,train_extra,llm_external
+200005,बाजार में नाली साफ नहीं होने के कारण दुकानों के सामने गंदा पानी जमा है और कचरा भी बिखरा है,Hindi,Drainage,Drainage and Sewerage,Garbage,train_extra,llm_external
+200006,नलों से मटमैला पानी आ रहा है और लोग शिकायत कर रहे हैं,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200007,बाजार के पीछे वाली नाली पिछले आठ दिनों से साफ नहीं हुई है और दुकानदार परेशान हैं,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200008,सोसायटी के गेट के पास कई आवारा कुत्ते घूमते रहते हैं और कल एक निवासी के पीछे भी दौड़े,Hindi,Public Health,Health Department,,train_extra,llm_external
+200009,नल से आने वाले पानी में दुर्गंध है और इसका इस्तेमाल करना मुश्किल हो गया है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200010,"स्थानीय कार्यक्रमों में रात की समय सीमा का पालन नहीं हो रहा है, कृपया जांच करें",Hindi,Other,Admin Review,,train_extra,llm_external
+200011,"बाजार वाली गली में नाली पूरी तरह जाम हो गई है, लोगों को चलने में परेशानी हो रही है",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200012,अस्पताल के पास वाली नाली पिछले एक सप्ताह से बंद है और गंदा पानी सड़क पर फैल रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200013,स्कूल के पीछे नाली पिछले पांच दिनों से बंद है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200014,हमारी गली में पानी निकासी की समस्या पिछले आठ दिनों से बनी हुई है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200015,अस्पताल के पास नाली बंद होने से जलभराव है और सड़क पर कचरा भी जमा है,Hindi,Drainage,Drainage and Sewerage,Garbage,train_extra,llm_external
+200016,"Please restore water service near the public library, the supply has been interrupted since yesterday",English,Water Supply,Water Supply Department,,train_extra,llm_external
+200017,There are three deep potholes near the bus depot which are causing frequent sudden braking,English,Roads,Public Works Department,,train_extra,llm_external
+200018,रात के कार्यक्रम का शोर लगातार बढ़ रहा है और आसपास के लोग परेशान हैं,Hindi,Other,Admin Review,,train_extra,llm_external
+200019,हमारी सोसायटी में दो सप्ताह से पानी की सप्लाई अनियमित है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200020,स्कूल के पास पाइपलाइन में रिसाव है और सड़क के पास पानी जमा हो रहा है,Hindi,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200021,पिछले चार दिनों से हमारी गली में नाली का पानी नहीं निकल रहा और घरों के सामने गंदगी जमा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200022,"बाजार क्षेत्र में रात देर तक शोर होता है, कई बार शिकायत करने के बाद भी समस्या बनी हुई है",Hindi,Other,Admin Review,,train_extra,llm_external
+200023,"The drain near the school is blocked and garbage is also piled beside it, making the overflow worse",English,Drainage,Drainage and Sewerage,Garbage,train_extra,llm_external
+200024,"काल रात्री पाइपलाइन फुटल्यापासून मोठ्या प्रमाणात पाणी वाया जात आहे, कृपया त्वरित पथक पाठवा",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200025,"गेल्या दहा दिवसांपासून पाण्याचा दाब सतत कमी आहे, कृपया मुख्य पाइपलाइन तपासा",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200026,स्कूल के पास लीक हो रही पानी की पाइप को तुरंत ठीक करवाया जाए,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200027,आमच्या नळाला पाणी येत नाही पण शेजारच्या गल्लीत नियमित पाणीपुरवठा सुरू आहे,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200028,The tap water near the public library has been dirty for the last four days,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200029,बाजार में रात के समय शोर इतना अधिक है कि घर में आराम करना मुश्किल हो गया है,Hindi,Other,Admin Review,,train_extra,llm_external
+200030,आमच्या गल्लीत पाणी येते पण प्रवाह खूप कमी असल्यामुळे घरातील टाकी भरायला तीन तास लागतात,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200031,"आमच्या परिसरात काल रात्रीपासून पाणी बंद आहे, सकाळीही नळ कोरडे होते",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200032,आवेदन जमा करने के बाद प्रमाण पत्र कब मिलेगा इसकी कोई जानकारी नहीं दी गई,Hindi,Other,Admin Review,,train_extra,llm_external
+200033,हमारे घरों में दो दिनों से पानी नहीं पहुंचा है जबकि नियमित सप्लाई का समय हो चुका है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200034,हमारे इलाके में हर सुबह बहुत कम मात्रा में पानी आता है और यह समस्या दस दिनों से है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200035,अस्पताल के पीछे नाली बंद है और पिछले पांच दिनों से पानी जमा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200036,अस्पताल के पीछे नाली का पानी पिछले दो दिनों से जमा है और कोई सफाई नहीं हुई,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200037,"अस्पताल के प्रवेश द्वार के पास सीवेज का पानी चार दिनों से बह रहा है, मरीजों को बहुत परेशानी हो रही है",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200038,बाजार के पीछे नाली बंद है और पानी दुकानों के सामने रुक गया है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200039,गेल्या चार दिवसांपासून पाणी सकाळी येत नाही आणि दुपारी अचानक काही मिनिटांसाठी येते,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200040,"गेल्या आठवड्यापासून पाण्याची वेळ रोज वेगळी आहे, नागरिकांना योग्य सूचना दिली जात नाही",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200041,स्कूल के पीछे सीवर का पानी जमा है और बहुत बदबू आ रही है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200042,"आमच्या परिसरात आठ दिवसांपासून पुरेसा पाणीपुरवठा नाही, नागरिकांना टँकरवर अवलंबून राहावे लागत आहे",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200043,हमारी गली की नाली में पानी रुका हुआ है और मच्छर बहुत बढ़ गए हैं,Hindi,Drainage,Drainage and Sewerage,Public Health,train_extra,llm_external
+200044,"पिछली रात से गली में सीवर का पानी बह रहा है, कृपया तुरंत टीम भेजें",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200045,"बाजार की नाली में गाद भर गई है, पिछले एक सप्ताह से सफाई नहीं हुई है",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200046,The water supply near the hospital has stopped and residents have been waiting since morning,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200047,स्कूल के पीछे घरों का कचरा खुले में फेंका जा रहा है और बहुत बदबू आ रही है,Hindi,Garbage,Solid Waste Management,,train_extra,llm_external
+200048,Our street has no water today and the problem has occurred several times this month,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200049,बाजार के पीछे नाली पिछले छह दिनों से साफ नहीं हुई,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200050,Tap water in our area has a muddy colour and unpleasant smell,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200051,"बाजार के पास पानी की पाइप पांच दिनों से लीक हो रही है, कृपया जल्द मरम्मत करें",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200052,हमारी सोसायटी में आज पानी नहीं आया और पिछले सप्ताह भी ऐसी समस्या हुई थी,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200053,सोसायटी के पीछे नाला ओवरफ्लो हो रहा है और पानी नीचे वाले घरों की तरफ जा रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200054,बाजार के पीछे जलभराव की समस्या पिछले एक सप्ताह से है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200055,"स्कूल के पीछे बारिश का पानी कई दिनों से जमा है, कृपया जल निकासी की व्यवस्था करें",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200056,बाजार के पास नगरपालिका की पाइपलाइन में लगातार रिसाव हो रहा है और तुरंत मरम्मत चाहिए,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200057,A pipeline near the bus depot has been leaking continuously for four days,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200058,"अस्पताल के सामने नाली ओवरफ्लो है, रात में अंधेरा होने के कारण स्थिति और खतरनाक हो जाती है",Hindi,Drainage,Drainage and Sewerage,Streetlight,train_extra,llm_external
+200059,The water pressure near the municipal office is too low for the upper floors,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200060,बाजार के प्रवेश द्वार के पास सड़क की हालत बहुत खराब है और वाहन गड्ढे से बचने के लिए अचानक मुड़ते हैं,Hindi,Roads,Public Works Department,,train_extra,llm_external
+200061,"हमारे इलाके में सीवेज का पानी दो दिनों से सड़क पर है, कृपया तुरंत सफाई कराएं",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200062,"पाण्याची पाइपलाइन दुरुस्त करण्यासाठी रस्ता खोदला होता, पण खोदलेला भाग अजून भरलेला नाही",Hindi,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200063,सार्वजनिक उद्यान के पास कचरा साफ करें क्योंकि वहां आवारा कुत्ते और मक्खियां बढ़ रही हैं,Hindi,Garbage,Solid Waste Management,Public Health,train_extra,llm_external
+200064,बस स्टैंड से सुबह के समय बसें कम मिलती हैं और यात्रियों को काफी देर खड़ा रहना पड़ता है,Hindi,Other,Admin Review,,train_extra,llm_external
+200065,बस सेवा अनियमित होने के कारण मरीजों और उनके साथ आने वालों को काफी देर इंतजार करना पड़ता है,Hindi,Other,Admin Review,,train_extra,llm_external
+200066,सोसायटी गेट के पास सड़क की मरम्मत जरूरी है क्योंकि वहां टूटे हिस्से में पानी भी जमा होता है,Hindi,Roads,Public Works Department,Drainage,train_extra,llm_external
+200067,बाजार के पास मुख्य पानी की पाइप एक सप्ताह से लीक हो रही है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200068,सब्जी बाजार के पास पानी का रिसाव पहले भी बताया गया था लेकिन अभी तक ठीक नहीं हुआ,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200069,The road near the bus stand is damaged and water remains on the broken surface after rainfall,English,Roads,Public Works Department,Drainage,train_extra,llm_external
+200070,The garbage pile near the bus stand has been there since Friday and is attracting flies,English,Garbage,Solid Waste Management,,train_extra,llm_external
+200071,बस स्टैंड के पास पानी की पाइपलाइन लगभग एक सप्ताह से लीक हो रही है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200072,स्कूल के पास नाली में मिट्टी भर गई है और पानी निकलना बंद हो गया है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200073,"Please restore the water supply near the municipal school, there has been no water for three days",English,Water Supply,Water Supply Department,,train_extra,llm_external
+200074,"बाजार की नाली में प्लास्टिक भर जाने से पानी रुक गया है, सफाई की तत्काल जरूरत है",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200075,बस स्टैंड पर बसों की संख्या बढ़ाने की जरूरत है क्योंकि यात्रियों की भीड़ बहुत अधिक रहती है,Hindi,Other,Admin Review,,train_extra,llm_external
+200076,स्कूल के पीछे की नाली एक सप्ताह से जाम है और बहुत तेज बदबू आ रही है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200077,स्कूल के सामने जलभराव से बच्चों को परेशानी हो रही है और सड़क पर गड्ढे भी बन गए हैं,Hindi,Drainage,Drainage and Sewerage,Roads,train_extra,llm_external
+200078,बाजार की नाली साफ नहीं होने के कारण पिछले सात दिनों से पानी रुका हुआ है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200079,Water is coming only in small quantities every morning and the issue has lasted for ten days,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200080,बस डिपो के पास सड़क दो महीने से खराब है और इसके कारण यातायात भी बढ़ गया है,Hindi,Roads,Public Works Department,Other,train_extra,llm_external
+200081,"हमारे मोहल्ले में चार दिन से पानी नहीं आया है, कृपया जल्द आपूर्ति शुरू करें",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200082,"There has been no water in our homes since Monday morning, please resolve this urgently",English,Water Supply,Water Supply Department,,train_extra,llm_external
+200083,स्कूल के पीछे नाली बंद होने से गंदा पानी और कचरा सड़क पर जमा हो गया है,Hindi,Drainage,Drainage and Sewerage,Garbage,train_extra,llm_external
+200084,सोसायटी के सामने नाला जाम है और पास में जमा कचरे के कारण स्थिति और खराब हो गई है,Hindi,Drainage,Drainage and Sewerage,Garbage,train_extra,llm_external
+200085,बाजार में जलभराव की समस्या पिछले चार दिनों से है और रास्ता कीचड़ से भर गया है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200086,"Please restore the water supply to our lane, families have been without water for four days",English,Water Supply,Water Supply Department,,train_extra,llm_external
+200087,बस स्टैंड की नाली टूट गई है और गंदा पानी रास्ते पर बह रहा है,Hindi,Drainage,Drainage and Sewerage,Roads,train_extra,llm_external
+200088,स्कूल गेट के सामने नाली बंद है और पिछले चार दिनों से जलभराव है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200089,बाजार में नाली बंद होने के कारण पानी दुकानों के सामने जमा हो रहा है और लोग परेशान हैं,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200090,नगरपालिका की लाइन से पीले रंग का पानी आ रहा है और उसमें छोटे कण दिखाई दे रहे हैं,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200091,स्कूल के आसपास पिछले एक सप्ताह से पानी की सप्लाई अनियमित है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200092,गेल्या दोन दिवसांपासून पाण्याची आवक कमी आहे आणि बाजारातील दुकानांना पाण्यासाठी बाहेरून व्यवस्था करावी लागत आहे,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200093,स्कूल के पीछे खुली नाली में पानी भरा है और उसका ढक्कन कई दिनों से नहीं लगाया गया,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200094,कॉलेज के पास कल शाम से पानी की सप्लाई बंद है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200095,"बस स्टैंड के पीछे बारिश का पानी दो दिनों से जमा है, कृपया जल निकासी ठीक करें",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200096,The water coming from the tap is brown and has been like this since yesterday,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200097,स्वास्थ्य केंद्र के पास पानी की सप्लाई बार-बार रुक रही है और कोई निश्चित समय नहीं है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200098,निवास प्रमाण पत्र के आवेदन की स्थिति जानने के लिए कोई सही माध्यम नहीं मिल रहा है,Hindi,Other,Admin Review,,train_extra,llm_external
+200099,The water supply near the public hospital has been stopped since yesterday evening,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200100,अस्पताल के पास गंदा पानी सप्लाई हो रहा है और इसकी तुरंत जांच जरूरी है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200101,सार्वजनिक उद्यान के पास पानी की पाइप लीक होने से बड़ा गड्ढा जैसा पानी जमा हो गया है,Hindi,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200102,हमारे इलाके में पिछले दो सप्ताह से पानी की सप्लाई समय पर नहीं हो रही है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200103,बाजार के पास नगरपालिका के नल में पानी का दबाव बहुत कम है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200104,बाजार के पास नाली साफ नहीं होने के कारण पिछले चार दिनों से पानी जमा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200105,सोसायटी के पीछे सीवेज लाइन बंद होने से पानी पार्किंग में जमा हो गया है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200106,बाजार की नाली पिछले छह दिनों से साफ नहीं हुई है और पानी दुकानों के सामने जमा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200107,"स्कूल के सामने बारिश का पानी नहीं निकल रहा, नाली पूरी तरह जाम है",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200108,अस्पताल के प्रवेश मार्ग पर सीवेज का पानी बह रहा है और मरीज परेशान हैं,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200109,स्कूल के पीछे नाले का पानी सड़क तक आ गया है और वहां कई गड्ढे बन गए हैं,Hindi,Drainage,Drainage and Sewerage,Roads,train_extra,llm_external
+200110,"बाजार की नाली से गंदा पानी बह रहा है, कृपया सफाई कर्मचारियों को जल्द भेजें",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200111,सोसायटी के गेट पर नाली का पानी जमा है और रास्ता कीचड़ से भर गया है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200112,बस स्टैंड के पास टूटे गटर से गंदा पानी सड़क पर बह रहा है,Hindi,Drainage,Drainage and Sewerage,Roads,train_extra,llm_external
+200113,Our street gets water at very low pressure and the problem has continued for more than a week,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200114,"हमारे मोहल्ले में नाले की सफाई लंबे समय से नहीं हुई, पानी की निकासी बहुत खराब है",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200115,खेल मैदान के पास लीक हो रही पानी की पाइप से कीचड़ जमा हो गया है,Hindi,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200116,"Please restore water service near the hospital, there has been no supply since yesterday afternoon",English,Water Supply,Water Supply Department,,train_extra,llm_external
+200117,Waterlogging near the public garden has remained for four days and children are unable to use the walkway,English,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200118,The road near the municipal playground is badly damaged after recent drainage work,English,Roads,Public Works Department,,train_extra,llm_external
+200119,गली की नाली तीन दिनों से बंद है और पानी घरों के सामने जमा हो रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200120,मुख्य सड़क के किनारे नाली का पानी बहने से सड़क की सतह खराब हो रही है,Hindi,Drainage,Drainage and Sewerage,Roads,train_extra,llm_external
+200121,The footpath near the public garden is completely occupied by stalls and people cannot walk normally,English,Encroachment,Building Permission and Encroachment,,train_extra,llm_external
+200122,A pipe has burst near the bus stand and water is flowing continuously onto the road,English,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200123,बस स्टैंड के पास सार्वजनिक नलों में पानी का दबाव बहुत कम है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200124,"बाजार की गली में सीवेज का पानी दुकानों के सामने जमा है, व्यापारी बहुत परेशान हैं",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200125,सोसायटी की नाली में प्लास्टिक फंसने से पिछले दो दिनों से पानी नहीं निकल रहा,Hindi,Drainage,Drainage and Sewerage,Garbage,train_extra,llm_external
+200126,गली में सीवर का पानी बह रहा है और पिछले तीन दिनों से सफाई नहीं हुई है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200127,The water is dirty near the public health centre and has been unsuitable for use since yesterday,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200128,पिछले दो दिनों से नल में पानी का दबाव बहुत कम है और ऊपरी मंजिल तक पानी नहीं पहुंच रहा,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200129,मुख्य चौराहे पर ट्रैफिक सिग्नल की समस्या के कारण रोज यातायात धीमा हो जाता है,Hindi,Other,Admin Review,,train_extra,llm_external
+200130,बसों में भीड़ बहुत ज्यादा है और कई यात्रियों को खड़े होकर सफर करना पड़ता है,Hindi,Other,Admin Review,,train_extra,llm_external
+200131,"नगरपालिका की सेवा से जुड़ी शिकायत के लिए किस अधिकारी से संपर्क करें, यह स्पष्ट नहीं है",Hindi,Other,Admin Review,,train_extra,llm_external
+200132,सरकारी अस्पताल के पास नलों में बहुत कम पानी आ रहा है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200133,"हमारी गली में पानी की पाइप कई दिनों से लीक हो रही है, कृपया मरम्मत करवाएं",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200134,"Our street has no water since morning, plese send someone to check the main supply line",English,Water Supply,Water Supply Department,,train_extra,llm_external
+200135,"बस स्टैंड के पीछे पानी निकासी बंद है, यात्रियों को गंदे पानी से होकर गुजरना पड़ रहा है",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200136,The garbage bin near the public library has not been emptied for several days,English,Garbage,Solid Waste Management,,train_extra,llm_external
+200137,हमारे घरों में कल रात से पानी नहीं आया है और पूरी गली प्रभावित है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200138,मुख्य बाजार में रात को तेज आवाज में घोषणा की जाती है और लोगों को परेशानी होती है,Hindi,Other,Admin Review,,train_extra,llm_external
+200139,बाजार के पास नाले का पानी जमा है और वहां मच्छरों की भरमार हो गई है,Hindi,Drainage,Drainage and Sewerage,Public Health,train_extra,llm_external
+200140,पाण्याची मुख्य पाइपलाइन बंद पडल्यामुळे आमच्या परिसरातील सर्व नळ कोरडे पडले आहेत,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200141,नळाचे पाणी मातीमिश्रित येत आहे आणि ते साठवल्यानंतर तळाशी गाळ जमा होतो,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200142,Our market area is receiving water only for a few minutes each morning,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200143,"रुग्णालयाच्या मागील भागात तीन दिवसांपासून पाण्याची समस्या आहे, नातेवाईकांना बाहेरून पाणी आणावे लागत आहे",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200144,The open gutter near the hospital gate is a danger to pedestrians and has been left like this for six days,English,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200145,सोसायटी गेट के पास कचरा नाली में फंसने से जलभराव हो गया है,Hindi,Drainage,Drainage and Sewerage,Garbage,train_extra,llm_external
+200146,बस स्टैंड के पास पानी की पाइप फट गई है और पानी सड़क पर बह रहा है,Hindi,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200147,बस स्टैंड के पास तीन दिनों से जलभराव है और पैदल चलना बहुत मुश्किल हो गया है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200148,बस में सफर करते समय अचानक तेज ब्रेक लगने से यात्रियों को परेशानी होती है,Hindi,Other,Admin Review,,train_extra,llm_external
+200149,स्कूल गेट के पास खुली नाली का ढक्कन टूट गया है और बच्चों की सुरक्षा को लेकर चिंता है,Hindi,Drainage,Drainage and Sewerage,Roads,train_extra,llm_external
+200150,नल के पानी का रंग मटमैला है और उसमें खराब गंध भी आ रही है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200151,The water coming from the municipal line has a foul smell and cannot be used comfortably,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200152,स्कूल के पास नाली का पानी जमा रहने से मच्छरों की समस्या बहुत बढ़ गई है,Hindi,Drainage,Drainage and Sewerage,Public Health,train_extra,llm_external
+200153,Dirty tap water is being supplied to our lane and residents are concerned about using it,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200154,सोसायटीतील पाण्याची टाकी भरत नसल्यामुळे रहिवाशांना खासगी पाणी विकत घ्यावे लागत आहे,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200155,अस्पताल के सामने गंदा पानी जमा है और रात में वहां की स्ट्रीट लाइट नहीं जलती,Hindi,Drainage,Drainage and Sewerage,Streetlight,train_extra,llm_external
+200156,"Please fix the low water pressure near our society, this has been happening for almost two weeks",English,Water Supply,Water Supply Department,,train_extra,llm_external
+200157,नल के पानी का रंग पीला है और उसमें बदबू भी आ रही है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200158,हमारी गली में दो दिनों से नगरपालिका का पानी नहीं आया है और लोग बहुत परेशान हैं,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200159,पाण्यात विचित्र वास येत आहे आणि लहान मुलांसाठी हे पाणी वापरण्याची भीती वाटत आहे,Hindi,Water Supply,Water Supply Department,Public Health,train_extra,llm_external
+200160,अस्पताल के मुख्य रास्ते पर नाली का पानी जमा है और मरीजों को परेशानी हो रही है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200161,The road outside the municipal school is badly cracked and wastewater is also flowing across one side,English,Roads,Public Works Department,Drainage,train_extra,llm_external
+200162,"Please clear the overflowing bin near the public library, waste is scattered all around it",English,Garbage,Solid Waste Management,,train_extra,llm_external
+200163,पानी के बिल में समस्या है और इसे ठीक कराने की प्रक्रिया स्पष्ट नहीं है,Hindi,Other,Admin Review,Water Supply,train_extra,llm_external
+200164,ट्रैफिक सिग्नल के पास लगी लाइट खराब है और रात में वहां अंधेरा रहता है,Hindi,Other,Admin Review,Streetlight,train_extra,llm_external
+200165,रात के समय तेज आवाज के कारण आसपास के निवासियों को लगातार परेशानी हो रही है,Hindi,Other,Admin Review,,train_extra,llm_external
+200166,"हमारे मोहल्ले में बारिश के बाद पानी कई घंटे तक जमा रहता है, कृपया नाली व्यवस्था की जांच करें",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200167,हमारी सोसायटी के प्रवेश द्वार के आसपास कचरा जमा है और बदबू लगातार बढ़ रही है,Hindi,Garbage,Solid Waste Management,,train_extra,llm_external
+200168,The municipal water is coming out brown and the problem has lasted for two days,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200169,स्कूल के पास जलभराव के कारण सड़क पर वाहन फिसल रहे हैं और गड्ढे भी दिखाई नहीं देते,Hindi,Drainage,Drainage and Sewerage,Roads,train_extra,llm_external
+200170,बाजार की नाली पिछले एक सप्ताह से साफ नहीं हुई है और बदबू फैल रही है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200171,"आवेदन की स्थिति जानने के लिए कोई सही जानकारी नहीं मिल रही है, कृपया सहायता करें",Hindi,Other,Admin Review,,train_extra,llm_external
+200172,"बाजार के पास पानी की पाइपलाइन ठीक करवाएं, काफी पानी लगातार बर्बाद हो रहा है",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200173,बस स्टैंड के पास पानी की पाइप फट गई है और सड़क गीली हो गई है,Hindi,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200174,"मुख्य बाजार की नाली पिछले छह दिनों से जाम है, कृपया सफाई दल भेजें",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200175,निवास प्रमाण पत्र के लिए आवेदन जमा किया था लेकिन अभी तक प्रमाण पत्र नहीं मिला,Hindi,Other,Admin Review,,train_extra,llm_external
+200176,"बाजार के पास जमा पानी में मच्छर बहुत हो गए हैं, कृपया सफाई और दवा का छिड़काव करवाएं",Hindi,Drainage,Drainage and Sewerage,Public Health,train_extra,llm_external
+200177,हमारी गली में पिछले पांच दिनों से पानी का दबाव बहुत कम है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200178,स्कूल के पीछे जलभराव के कारण सड़क पर गड्ढे हो गए हैं और वाहन सावधानी से चल रहे हैं,Hindi,Drainage,Drainage and Sewerage,Roads,train_extra,llm_external
+200179,"अस्पताल के सामने नाली जाम है, कृपया इसे तत्काल साफ करवाएं",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200180,Water has been leaking from the main pipe near the market for more than a week,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200181,"हमारी सोसायटी की नाली पिछले पांच दिनों से जाम है, कृपया जल्द सफाई करवाएं",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200182,सोसायटी के सामने नाले का पानी ओवरफ्लो हो रहा है और गंदगी फैल रही है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200183,"Please repair the pipeline near the municipal office, it has been leaking since Tuesday",English,Water Supply,Water Supply Department,,train_extra,llm_external
+200184,सार्वजनिक पुस्तकालय के पास कूड़ेदान कई दिनों से खाली नहीं किया गया है,Hindi,Garbage,Solid Waste Management,,train_extra,llm_external
+200185,बस स्टैंड की नाली पिछले तीन दिनों से बंद है और पानी जमा होने से बदबू फैल रही है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200186,Our area gets water for less than an hour each day and this has continued for two weeks,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200187,"मुख्य सड़क की नाली का ढक्कन कई दिनों से टूटा है, कृपया इसे जल्द लगवाएं",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200188,नगरपालिका कार्यालय के पास के नल से गंदा पानी आ रहा है और इसकी जांच जरूरी है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200189,अस्पताल के रास्ते में फुटपाथ पर सामान रखा है और नाली की सफाई नहीं हो पा रही,Hindi,Drainage,Drainage and Sewerage,Encroachment,train_extra,llm_external
+200190,हमारे क्षेत्र में सीवेज का पानी दो दिनों से सड़क पर बह रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200191,"अस्पताल के पास नाली टूटने से गंदा पानी सड़क पर बह रहा है, यह बहुत जरुरी समस्या है",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200192,"अस्पताल की गली में गंदा पानी बह रहा है, मरीजों को बहुत परेशानी हो रही है",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200193,खेल मैदान के पास पानी की सप्लाई अनियमित है और रोजमर्रा के काम प्रभावित हो रहे हैं,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200194,हमारे मोहल्ले में जल निकासी की समस्या पिछले दो सप्ताह से चल रही है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200195,सोसायटी के गेट के पास की लाइट कई दिनों से झिलमिला रही है और लोग सुरक्षा को लेकर चिंतित हैं,Hindi,Streetlight,Electrical Department,,train_extra,llm_external
+200196,"रात में कार्यक्रम के दौरान बहुत तेज आवाज में संगीत बजाया जा रहा है, कृपया तुरंत कार्रवाई करें",Hindi,Other,Admin Review,,train_extra,llm_external
+200197,"Garbage has not been collected from our lane for six days, plese send the collection vehicle",English,Garbage,Solid Waste Management,,train_extra,llm_external
+200198,हमारी गली में नाली बंद होने से घरों के सामने चार दिनों से पानी जमा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200199,The tap water has turned cloudy and smells unusual after the latest supply,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200200,स्कूल के पास कचरा बहुत ज्यादा जमा हो गया है और कृपया इसे जल्द हटाया जाए,Hindi,Garbage,Solid Waste Management,,train_extra,llm_external
+200201,कालपासून नळातून पाणी येत नाही आणि तक्रार केल्यानंतरही पुरवठा सुरू झालेला नाही,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200202,नल के पानी में बदबू आ रही है और इसे पीने में डर लग रहा है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200203,हमारे इलाके में पिछले पंद्रह दिनों से पानी की सप्लाई अनियमित है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200204,अस्पताल के पास कचरा फेंका जा रहा है और वहां मच्छरों की संख्या भी बढ़ गई है,Hindi,Garbage,Solid Waste Management,Public Health,train_extra,llm_external
+200205,स्कूल के पास सड़क के बीच में मैनहोल खुला पड़ा है और रात में यह बहुत खतरनाक है,Hindi,Roads,Public Works Department,,train_extra,llm_external
+200206,जन्म प्रमाण पत्र के आवेदन की जानकारी लेने पर कोई स्पष्ट उत्तर नहीं दिया गया,Hindi,Other,Admin Review,,train_extra,llm_external
+200207,बस स्टैंड के पास कचरे का ढेर शुक्रवार से पड़ा है और मक्खियां बढ़ रही हैं,Hindi,Garbage,Solid Waste Management,,train_extra,llm_external
+200208,मुख्य बाजार के पास सीवर ओवरफ्लो होने से गंदा पानी सड़क पर बह रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200209,"हमारी गली में नल से बहुत गंदा और बदबूदार पानी आ रहा है, कृपया इसकी जांच करें",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200210,"स्थानीय कार्यक्रम के लिए देर रात तक लाउडस्पीकर चलाया जा रहा है, कृपया समय सीमा लागू करें",Hindi,Other,Admin Review,,train_extra,llm_external
+200211,पिछले तीन दिनों से सोसायटी के पास सीवर ओवरफ्लो है और गंदा पानी रास्ते में फैल रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200212,मुख्य पाइपलाइनमध्ये बिघाड झाल्यामुळे तीन दिवसांपासून संपूर्ण गल्लीला पाणी मिळालेले नाही,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200213,"आमच्या परिसरात पाण्याचा दाब अचानक वाढतो आणि नंतर पूर्णपणे कमी होतो, त्यामुळे पाइपमधून आवाज येतो",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200214,सार्वजनिक उद्यान के पास मैनहोल खुला है और लोग सड़क के उस हिस्से से बचकर चल रहे हैं,Hindi,Roads,Public Works Department,,train_extra,llm_external
+200215,बाजार की मुख्य नाली में गंदगी भर गई है और पिछले चार दिनों से पानी बाहर निकल रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200216,पाण्याची पाइप गळत असल्यामुळे रस्त्यावर खड्डा तयार झाला आहे आणि दुचाकीस्वार घसरत आहेत,Hindi,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200217,स्कूल गेट के सामने सीवेज का पानी पिछले दो दिनों से जमा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200218,अस्पताल के पास नाली की सफाई नहीं होने से पानी जमा है और मरीजों को रास्ता बदलना पड़ रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200219,पाण्याच्या टाकीची साफसफाई झाल्यानंतरही नळाचे पाणी दुर्गंधीयुक्त येत आहे,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200220,There has been no water in our lane since yesterday and many families are affected,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200221,"सोसायटी के पास सुबह से लगातार तेज आवाज में डीजे बज रहा है, बुजुर्गों और बच्चों को परेशानी हो रही है",Hindi,Other,Admin Review,,train_extra,llm_external
+200222,"Please repair the leaking pipe in our lane, a large amount of water is being wasted every day",English,Water Supply,Water Supply Department,,train_extra,llm_external
+200223,A broken water pipe near the market is wasting water and damaging the road surface,English,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200224,सोसायटी के पीछे सीवर का पानी खेत की तरफ बह रहा है और रास्ते पर भी फैल रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200225,हमारी गली की नाली दो दिनों से जाम है और पानी बिल्कुल नहीं निकल रहा,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200226,"Deep potholes near our lane are making travel difficult, especially when the streetlights are off at night",English,Roads,Public Works Department,Streetlight,train_extra,llm_external
+200227,"नळाचे पाणी स्वच्छ दिसत नाही, त्यात गाळ आहे आणि गेल्या तीन दिवसांपासून हीच समस्या आहे",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200228,स्थानीय बाजार में देर रात तक तेज आवाज में घोषणा होने से लोगों की नींद प्रभावित होती है,Hindi,Other,Admin Review,,train_extra,llm_external
+200229,दो दिन से बारिश का पानी सड़क पर जमा है क्योंकि पास की नाली जाम है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200230,नगरपालिका कार्यालय में शिकायत सुनने के लिए पर्याप्त कर्मचारी नहीं हैं,Hindi,Other,Admin Review,,train_extra,llm_external
+200231,बाजार के पास सीवर की दुर्गंध बहुत तेज है और गंदा पानी लगातार बह रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200232,स्वास्थ्य केंद्र के पास पानी की सप्लाई अनियमित है और कई बार पूरी तरह बंद हो जाती है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200233,"सोसायटी गेट के सामने गंदा पानी भर गया है, कृपया नाली की जांच और सफाई करवाएं",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200234,बस स्टैंड के पास कूड़ेदान भर गया है और पास का फुटपाथ भी इस्तेमाल करना मुश्किल हो गया है,Hindi,Garbage,Solid Waste Management,Roads,train_extra,llm_external
+200235,कॉलेज के पास पानी की पाइप लगातार लीक हो रही है और तुरंत ध्यान देने की जरूरत है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200236,मुख्य बाजार में नाली साफ नहीं होने से बारिश का पानी दुकानों के सामने जमा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200237,"प्रमाण पत्र बनवाने के लिए लगने वाला समय बहुत अधिक है, प्रक्रिया को सरल बनाया जाए",Hindi,Other,Admin Review,,train_extra,llm_external
+200238,सोसायटी के पीछे जलभराव है और नाली में जमा गंदगी के कारण पानी निकल नहीं रहा,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200239,नगरपालिका कार्यालय के पास पानी का दबाव इतना कम है कि ऊपरी मंजिलों तक पानी नहीं पहुंचता,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200240,"There is very low pressure at the public taps near the bus stand, especially in the morning",English,Water Supply,Water Supply Department,,train_extra,llm_external
+200241,सोसायटी के पास नाली में कचरा जमा होने से पानी रुक गया है,Hindi,Drainage,Drainage and Sewerage,Garbage,train_extra,llm_external
+200242,Please check the pipeline near the school because water pressure has become very low,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200243,"हमारे इलाके में सीवर लाइन बार-बार जाम हो रही है, इस बार समस्या एक सप्ताह से है",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200244,गेल्या पाच दिवसांपासून सकाळचा पाणीपुरवठा फक्त काही मिनिटे होत आहे,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200245,हमारे इलाके में पानी केवल थोड़ी देर के लिए आता है और यह समस्या दो सप्ताह से चल रही है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200246,The garbage pile near the school is attracting stray dogs and creating a safety problem,English,Garbage,Solid Waste Management,Public Health,train_extra,llm_external
+200247,"कृपया हमारी गली में कचरा उठाने वाली गाड़ी भेजें, लगभग एक सप्ताह से कचरा जमा है",Hindi,Garbage,Solid Waste Management,,train_extra,llm_external
+200248,बाजार के पीछे सीवेज ओवरफ्लो होने की समस्या आठ दिनों से बनी हुई है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200249,बस डिपो के पास पानी की पाइपलाइन चार दिनों से लगातार लीक हो रही है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200250,सोसायटी के बाहर नाली में कचरा भर गया है और पानी बाहर बह रहा है,Hindi,Drainage,Drainage and Sewerage,Garbage,train_extra,llm_external
+200251,No water has reached our homes for two days despite the regular supply schedule,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200252,मुख्य सड़क पर नाली जाम होने से पानी जमा है और यातायात प्रभावित हो रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200253,"स्कूल के सामने जमा पानी में मच्छर बढ़ गए हैं, कृपया सफाई और दवा का छिड़काव करवाएं",Hindi,Drainage,Drainage and Sewerage,Public Health,train_extra,llm_external
+200254,स्कूल के सामने नाला जाम होने से पानी मैदान की तरफ फैल गया है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200255,रात के कार्यक्रम में तेज संगीत के कारण आसपास रहने वाले लोगों को नींद नहीं आ रही है,Hindi,Other,Admin Review,,train_extra,llm_external
+200256,अस्पताल के प्रवेश द्वार के पास पाइप बुरी तरह लीक हो रही है और पानी सड़क किनारे बह रहा है,Hindi,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200257,Our society gate has a large pile of garbage that has remained there for almost a week,English,Garbage,Solid Waste Management,,train_extra,llm_external
+200258,नळातून येणारे पाणी इतके कमी आहे की एका बादलीला भरायला खूप वेळ लागतो,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200259,Garbage has not been collected from our lane for five days and the smell is becoming unbearable,English,Garbage,Solid Waste Management,,train_extra,llm_external
+200260,"Please repair the damaged stretch near the market entrance, vehicles are swerving to avoid it",English,Roads,Public Works Department,,train_extra,llm_external
+200261,हमारी गली में इस महीने कई बार पानी की सप्लाई बंद हुई है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200262,हमारी सोसायटी के गेट के पास कचरे का बड़ा ढेर लगभग एक सप्ताह से पड़ा है,Hindi,Garbage,Solid Waste Management,,train_extra,llm_external
+200263,बाजार के पास पानी की पाइपलाइन एक सप्ताह से लीक हो रही है और बहुत पानी बर्बाद हो रहा है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200264,बाजार के पीछे नाली का पानी रुका रहने से आसपास बहुत मच्छर हो गए हैं,Hindi,Drainage,Drainage and Sewerage,Public Health,train_extra,llm_external
+200265,आमच्या गल्लीत पाण्याची गळती सुरू असून बाजूच्या घरासमोर चिखल साचला आहे,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200266,पाणीपुरवठ्याची समस्या सोडवण्यासाठी तक्रार करूनही तीन दिवस झाले तरी कोणतीही कारवाई झालेली नाही,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200267,स्कूल के सामने पानी जमा रहने से मच्छर बढ़ गए हैं,Hindi,Drainage,Drainage and Sewerage,Public Health,train_extra,llm_external
+200268,सोसायटी के गेट के पास एक ठेले वाले ने अपनी दुकान फुटपाथ तक बढ़ा दी है,Hindi,Encroachment,Building Permission and Encroachment,,train_extra,llm_external
+200269,अस्पताल के पीछे नाली की सफाई नहीं होने से पिछले पांच दिनों से पानी जमा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200270,हमारी सोसायटी के बाहर लगभग एक सप्ताह से घरेलू कचरा बिना उठाए पड़ा है,Hindi,Garbage,Solid Waste Management,,train_extra,llm_external
+200271,कॉलेज के पास पांच दिनों से पानी का दबाव बहुत कम है और ऊपरी मंजिलों पर पानी नहीं पहुंच रहा,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200272,The garbage collection vehicle did not come to our area for almost a week,English,Garbage,Solid Waste Management,,train_extra,llm_external
+200273,"हमारी गली की नाली बंद है, पानी घरों के सामने जमा है और बदबू बहुत तेज हो गई है",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200274,स्वास्थ्य केंद्र के पास पानी की सप्लाई बार-बार बंद हो रही है और कोई निश्चित समय नहीं है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200275,Our lane gets very low water pressure during the morning and evening,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200276,बारिश के बाद से मुख्य रास्ते पर पानी जमा है और यह समस्या लगातार पांच दिनों से बनी हुई है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200277,प्रमाण पत्र के आवेदन में सुधार करने के लिए सही प्रक्रिया बताई जाए,Hindi,Other,Admin Review,,train_extra,llm_external
+200278,The tap water coming to our society is dirty and has a strong muddy smell,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200279,मुख्य बाजार की नाली जाम होने के कारण बारिश का पानी दुकानों के अंदर आने लगा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200280,"There is no water supply in our lane today, and elderly residents are facing serious difficulty",English,Water Supply,Water Supply Department,,train_extra,llm_external
+200281,"अस्पताल के सामने नाले का पानी ओवरफ्लो हो रहा है, कृपया तुरंत कार्रवाई करें",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200282,Please clear the waste near the public garden because it is attracting stray dogs and flies,English,Garbage,Solid Waste Management,Public Health,train_extra,llm_external
+200283,"Please clean the drain near the bus stand immediately, the stagnant water is attracting mosquitoes",English,Drainage,Drainage and Sewerage,Public Health,train_extra,llm_external
+200284,The water tank is not filling because the municipal pressure has become very low,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200285,"बाजार के पास जलभराव की समस्या पांच दिनों से बनी हुई है, नाली की तुरंत सफाई जरूरी है",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200286,पाणीपुरवठा गेल्या तीन दिवसांपासून बंद असून जवळच्या नळावर लोकांची मोठी रांग लागते,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200287,The pipeline near the bus stand has been leaking for a week and the wet road is becoming slippery,English,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200288,Please check why the water supply near the public garden has been interrupted for three days,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200289,"आमच्या परिसरातील पाणीपुरवठा मागील दोन आठवड्यांपासून अनियमित आहे, कृपया तातडीने तपासणी करा",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200290,नल के पानी में दुर्गंध आ रही है और लोग इसका उपयोग करने से परेशान हैं,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200291,"सब्जी बाजार के पास चार दिनों से कचरा पड़ा है, कृपया तुरंत सफाई करवाएं",Hindi,Garbage,Solid Waste Management,,train_extra,llm_external
+200292,गली के कोने पर सीवर का पानी जमा है और लोग मजबूरी में उसी रास्ते से गुजर रहे हैं,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200293,"बाजार के प्रवेश द्वार के पास की टूटी लाइट जल्द ठीक करें, अंधेरे में किसी के साथ दुर्घटना हो सकती है",Hindi,Streetlight,Electrical Department,,train_extra,llm_external
+200294,बाजार के पीछे नाली साफ नहीं होने से पानी पिछले छह दिनों से जमा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200295,"बाजार क्षेत्र में सुबह केवल कुछ मिनट पानी आता है, जिससे दुकानदारों को रोज परेशानी होती है",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200296,"मुख्य सड़क के किनारे सीवर का पानी बह रहा है, कृपया तत्काल सफाई करवाएं",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200297,बाजार की गली में नाली बंद होने के कारण पानी दुकानों तक पहुंच रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200298,"हमारी गली में पिछले छह दिनों से नाली की सफाई नहीं हुई है, कृपया जल्द कर्मचारी भेजें",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200299,अस्पताल के पास लीक हो रही पाइप से पानी सड़क किनारे जमा हो रहा है,Hindi,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200300,"मुख्य सड़क के किनारे खुली नाली में पानी जमा है, इसे सुरक्षित तरीके से ढकना जरूरी है",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200301,Dirty tap water has been supplied to the market area for the past two days,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200302,हमारी गली में नलों से गंदा पानी आ रहा है और लोग इसे इस्तेमाल करने से परेशान हैं,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200303,बस सेवा की समय सारणी पुरानी है और वास्तविक बस आने का समय अलग रहता है,Hindi,Other,Admin Review,,train_extra,llm_external
+200304,सोसायटी गेट के सामने जलभराव के कारण लोगों को रोज परेशानी हो रही है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200305,सार्वजनिक नळाला कालपासून पाणी नाही आणि तिथे लोकांनी रिकाम्या बादल्या ठेवलेल्या आहेत,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200306,"कालपासून नळातून फक्त काही थेंब पाणी येत आहे, कृपया तातडीने दुरुस्ती करा",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200307,प्रमाण पत्र के लिए दिए गए आवेदन का कोई संदेश या सूचना अभी तक नहीं मिली,Hindi,Other,Admin Review,,train_extra,llm_external
+200308,बस स्टैंड पर बैठने की सुविधा खराब है और यात्रियों को लंबे समय तक खड़ा रहना पड़ता है,Hindi,Other,Admin Review,,train_extra,llm_external
+200309,क्लिनिक के सामने सड़क पर गहरा गड्ढा है और पास में कूड़ेदान भी overflowing है,Hindi,Roads,Public Works Department,Garbage,train_extra,llm_external
+200310,Our lane receives water only briefly each morning and this has continued for more than a week,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200311,बस स्टैंड की गली में नाली टूटने से पानी सड़क पर बह रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200312,"अस्पताल के पीछे सीवेज की समस्या पिछले पांच दिनों से बनी हुई है, कृपया तुरंत कार्रवाई करें",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200313,अस्पताल के पास नाली पूरी तरह बंद है और गंदा पानी सड़क पर बह रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200314,"चौराहे पर सिग्नल बदलने का समय बहुत अधिक है, जिससे वाहन लंबे समय तक रुके रहते हैं",Hindi,Other,Admin Review,,train_extra,llm_external
+200315,हमारे मोहल्ले में जलभराव पिछले तीन दिनों से है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200316,हमारी गली की नाली पूरी तरह जाम है और पिछले छह दिनों से पानी बाहर नहीं निकल रहा,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200317,सब्जी बाजार के पास पिछले दस दिनों से पानी की सप्लाई भरोसेमंद नहीं है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200318,हमारे इलाके में पानी का दबाव अचानक बहुत कम हो गया है और नीचे के नल में भी मुश्किल से पानी आता है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200319,बाजार के पीछे नाली जाम होने से पिछले पांच दिनों से जलभराव है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200320,बाजार की मुख्य गली में जलभराव की समस्या एक सप्ताह से बनी हुई है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200321,बाजार के पास फुटपाथ पर सामान रखने के कारण नाली तक पहुंचना मुश्किल है और पानी जमा हो रहा है,Hindi,Drainage,Drainage and Sewerage,Encroachment,train_extra,llm_external
+200322,Water is not reaching the upper floors because the pressure has become extremely low,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200323,प्रमाण पत्र के लिए कौन-कौन से दस्तावेज चाहिए इसकी सही जानकारी कार्यालय में नहीं मिल रही है,Hindi,Other,Admin Review,,train_extra,llm_external
+200324,बाजार वाली सड़क के किनारे मैनहोल खुला पड़ा है और वहां कोई सुरक्षा अवरोध नहीं लगाया गया है,Hindi,Roads,Public Works Department,,train_extra,llm_external
+200325,"बस स्टैंड पर कई बार बस बिना रुके निकल जाती है, यात्रियों को काफी इंतजार करना पड़ता है",Hindi,Other,Admin Review,,train_extra,llm_external
+200326,बाजार में मिलने वाला पानी मटमैला है और कल से इस्तेमाल करने लायक नहीं है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200327,हमारी सोसायटी में लगभग तीन सप्ताह से पानी की सप्लाई अनियमित है और समस्या बढ़ रही है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200328,"हमारी सड़क पर रविवार से पानी की सप्लाई बंद है, कृपया इसे जल्द शुरू करें",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200329,"मुख्य बाजार में नाला जाम है, पिछले सप्ताह से पानी का बहाव ठीक नहीं है",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200330,बाजाराच्या मुख्य गल्लीत पाण्याची पाइप गळत आहे आणि त्याचे पाणी रस्त्यावरील खड्ड्यांमध्ये भरत आहे,Hindi,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200331,पानी की पाइपलाइन में रिसाव के कारण बाजार के पास लगातार पानी बह रहा है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200332,बाजार के पीछे सीवेज लाइन पिछले एक सप्ताह से बंद है और पानी बाहर बह रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200333,सोसायटी गेट के पास पानी की पाइप क्षतिग्रस्त है और लगातार पानी बह रहा है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200334,आमच्या परिसरात नळाला पाणी येत नाही आणि सार्वजनिक नळावर खूप मोठी गर्दी होत आहे,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200335,"स्कूल के सामने सड़क पर एक खुला मैनहोल है, बच्चों की सुरक्षा के लिए इसे तुरंत बंद किया जाए",Hindi,Roads,Public Works Department,,train_extra,llm_external
+200336,"रात में शादी समारोह के कारण बहुत तेज संगीत बजाया जा रहा है, कृपया आवाज कम करवाएं",Hindi,Other,Admin Review,,train_extra,llm_external
+200337,"स्कूल के सामने नाली में प्लास्टिक और गंदगी भर गई है, इसलिए पानी बाहर बह रहा है",Hindi,Drainage,Drainage and Sewerage,Garbage,train_extra,llm_external
+200338,Our residential area has had repeated water cuts for the past week,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200339,गेल्या चार दिवसांपासून पाण्याचा दाब कमी आहे आणि सकाळच्या वेळेत विशेषतः समस्या वाढते,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200340,अस्पताल के पास पूरे सप्ताह पानी का दबाव बहुत कम रहा है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200341,"स्कूल के सामने सीवर ओवरफ्लो हो रहा है, कृपया तत्काल कार्रवाई करें",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200342,शाळेच्या मुख्य गेटजवळ पाण्याची पाइप फुटल्यामुळे मुलांना रस्त्यावरून जाण्यास अडचण होत आहे,Hindi,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200343,हमारी गली में चार दिनों से कचरा नहीं उठाया गया है और बदबू बहुत तेज हो गई है,Hindi,Garbage,Solid Waste Management,,train_extra,llm_external
+200344,मुख्य बाजार में नाली जाम होने के कारण बारिश का पानी दुकानों के सामने रुक गया है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200345,स्कूल की गली में सीवर का गंदा पानी जमा है और बदबू पूरे रास्ते में फैल रही है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200346,"अस्पताल जाने वाले रास्ते पर गंदे नाले का पानी बह रहा है, कृपया तुरंत कार्रवाई करें",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200347,नगरपालिका कार्यालय में शिकायत दर्ज करने के बाद आगे क्या होगा इसकी जानकारी नहीं दी जाती,Hindi,Other,Admin Review,,train_extra,llm_external
+200348,नगरपालिका कार्यालय के पास फुटपाथ का एक हिस्सा टूट गया है और पैदल चलना असुरक्षित है,Hindi,Roads,Public Works Department,,train_extra,llm_external
+200349,शाळेजवळील वस्तीत सकाळचा पाणीपुरवठा गेल्या आठवड्यापासून बंद आहे,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200350,"स्कूल के रास्ते में जलभराव की समस्या एक सप्ताह से है, कृपया नाली की सफाई करवाएं",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200351,नल से आने वाले पानी में मिट्टी के छोटे कण दिखाई दे रहे हैं और पानी साफ नहीं है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200352,हमारे इलाके में रोज थोड़े समय के लिए पानी आता है और यह समस्या दो सप्ताह से चल रही है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200353,"बस स्टैंड की सड़क पर नाली का पानी बह रहा है, यात्रियों को परेशानी हो रही है",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200354,स्कूल के पास पानी की लाइन की जांच करें क्योंकि पिछले कुछ दिनों से दबाव बहुत कम है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200355,हमारी सोसायटी के पास फुटपाथ दो महीने से टूटा हुआ है और पैदल चलने के लिए जगह नहीं बची है,Hindi,Roads,Public Works Department,,train_extra,llm_external
+200356,नगरपालिका स्कूल के बाहर सड़क में दरारें हैं और एक तरफ गंदा पानी भी बह रहा है,Hindi,Roads,Public Works Department,Drainage,train_extra,llm_external
+200357,हमारी गली में चार दिनों से पानी नहीं आया है और लोगों को बाहर से पानी खरीदना पड़ रहा है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200358,The water pressure has suddenly dropped in our area and the issue has lasted for one week,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200359,अस्पताल के पीछे जलभराव है और मच्छरों के कारण मरीजों के साथ आने वाले लोग परेशान हैं,Hindi,Drainage,Drainage and Sewerage,Public Health,train_extra,llm_external
+200360,"हमारी गली में चार दिनों से पानी नहीं आया है, कृपया तुरंत सप्लाई बहाल करें",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200361,The dustbin near the hospital gate is overflowing and waste is scattered across the entrance area,English,Garbage,Solid Waste Management,,train_extra,llm_external
+200362,"अस्पताल के पीछे सीवर का पानी जमा है, कृपया इसे जल्द साफ करवाएं",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200363,हमारी गली में कल से पानी नहीं आया है और कई परिवार परेशान हैं,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200364,फुटपाथ पर सामान रखे होने के कारण नाली की सफाई नहीं हो पा रही और पानी सड़क पर जमा है,Hindi,Drainage,Drainage and Sewerage,Encroachment,train_extra,llm_external
+200365,"नल का पानी गंदा और बदबूदार है, कृपया पानी की गुणवत्ता की जांच करवाएं",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200366,पिछली रात से पानी की सप्लाई बंद है और सुबह के समय भी नल सूखे रहे,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200367,सार्वजनिक पुस्तकालय के पास पाइपलाइन लीक हो रही है और रोज पानी बर्बाद हो रहा है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200368,हमारी सोसायटी में सुबह से पानी नहीं आया और कई घरों में पीने का पानी भी नहीं बचा है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200369,Sewage has been overflowing near the public toilet for the last three days and urgent cleaning is required,English,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200370,बाजार क्षेत्र में पिछले दो दिनों से गंदा पानी आ रहा है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200371,पाण्याची पाइपलाइन दुरुस्त करण्यासाठी खोदलेला रस्ता अजून नीट केलेला नाही आणि वाहनांना धोका निर्माण झाला आहे,Hindi,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200372,बस स्टैंड के पास फुटपाथ टूट गया है और कई जगह से फर्श की पट्टियां गायब हैं,Hindi,Roads,Public Works Department,,train_extra,llm_external
+200373,रात के समय तेज शोर की वजह से परीक्षा की तैयारी कर रहे विद्यार्थियों को परेशानी हो रही है,Hindi,Other,Admin Review,,train_extra,llm_external
+200374,Water is leaking from the pipeline near the public garden and forming a large puddle,English,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200375,हमारी गली में सीवेज ओवरफ्लो होने से घरों के सामने गंदा पानी फैल गया है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200376,"आमच्या परिसरात रात्री पाणी सोडले जाते, पण बहुतेक लोकांना त्याची माहिती नसल्यामुळे पाणी वाया जाते",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200377,हमारी गली की नाली जाम होने से पिछले छह दिनों से जलभराव की समस्या बनी हुई है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200378,अस्पताल की गली में सीवर का पानी जमा है और मरीजों को गंदे पानी से होकर गुजरना पड़ रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200379,मुख्य सड़क पर नाली का पानी फैलने से सड़क खराब हो रही है और वाहन फिसल रहे हैं,Hindi,Drainage,Drainage and Sewerage,Roads,train_extra,llm_external
+200380,The water pressure near the society gate is too low and residents cannot fill their tanks properly,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200381,हमारे इलाके में कल सुबह से पानी की सप्लाई बंद है और घरों में रोजमर्रा के काम प्रभावित हो रहे हैं,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200382,सोसायटी गेट के पास रुके पानी में मच्छर बढ़ गए हैं,Hindi,Drainage,Drainage and Sewerage,Public Health,train_extra,llm_external
+200383,सोसायटी के गेट के पास कचरे का ढेर लगभग दो सप्ताह से बिना सफाई के पड़ा है,Hindi,Garbage,Solid Waste Management,,train_extra,llm_external
+200384,बस अड्डे के पास अवैध ठेलों के कारण पैदल चलने वालों के लिए रास्ता बहुत कम बचा है,Hindi,Encroachment,Building Permission and Encroachment,,train_extra,llm_external
+200385,"बाजार में रात के समय दुकानों से बहुत तेज आवाज आती है, कृपया जांच करें",Hindi,Other,Admin Review,,train_extra,llm_external
+200386,Our society has faced irregular water supply for nearly three weeks and the problem is getting worse,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200387,The municipal water coming to our homes is dirty and has a strange taste,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200388,"Please repair the leaking pipeline near the market, it has been wasting water for more than five days",English,Water Supply,Water Supply Department,,train_extra,llm_external
+200389,स्कूल के सामने जलभराव है और नाली की सफाई नहीं होने से समस्या लगातार बढ़ रही है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200390,The water line near the market is leaking and the surrounding area remains wet throughout the day,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200391,"बस डिपो के पास सड़क पर तीन गहरे गड्ढे हैं, जिससे वाहन अचानक ब्रेक लगाते हैं",Hindi,Roads,Public Works Department,,train_extra,llm_external
+200392,सोसायटी गेट के सामने जल निकासी बंद है और बारिश के बाद पूरा रास्ता पानी में डूब जाता है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200393,सोसायटीच्या प्रवेशद्वाराजवळ पाइप फुटल्यामुळे रस्त्यावर मोठे पाणी साचले आहे,Hindi,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200394,बाजार की नाली में गंदगी भरने से पानी बाहर बह रहा है,Hindi,Drainage,Drainage and Sewerage,Garbage,train_extra,llm_external
+200395,बस स्टैंड के पास गटर टूटने से गंदा पानी सड़क पर फैल रहा है,Hindi,Drainage,Drainage and Sewerage,Roads,train_extra,llm_external
+200396,"मुख्य सड़क की नाली में गाद भर गई है, पानी बहुत धीमी गति से निकल रहा है",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200397,The streetlight on the main road has been off for nearly two weeks and the situation is becoming unsafe,English,Streetlight,Electrical Department,,train_extra,llm_external
+200398,सोसायटी गेट के पास जलभराव से सड़क खराब हो रही है और वाहनों को निकलने में परेशानी है,Hindi,Drainage,Drainage and Sewerage,Roads,train_extra,llm_external
+200399,"Our lane has had no water since early morning, and children are unable to get ready for school",English,Water Supply,Water Supply Department,,train_extra,llm_external
+200400,अस्पताल के पास जलभराव की समस्या छह दिनों से है और मरीजों को बहुत परेशानी हो रही है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200401,बाजार के पास सोमवार से पानी का दबाव अचानक बहुत कम हो गया है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200402,गेल्या पाच दिवसांपासून पाणी कमी दाबाने येत आहे आणि घरातील टाकी भरत नाही,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200403,बाजार की नाली पिछले पांच दिनों से जाम है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200404,बस की समय सारणी और वास्तविक बस के समय में बहुत अंतर है,Hindi,Other,Admin Review,,train_extra,llm_external
+200405,हमारी गली के पास घरेलू कचरा फेंका जा रहा है और सड़क का रास्ता भी संकरा हो गया है,Hindi,Garbage,Solid Waste Management,Roads,train_extra,llm_external
+200406,"स्कूल के पीछे सीवेज का पानी पिछले तीन दिनों से जमा है, कृपया तुरंत कार्रवाई करें",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200407,जन्म प्रमाण पत्र के लिए आवेदन किया था लेकिन अभी तक कोई जानकारी नहीं मिली है,Hindi,Other,Admin Review,,train_extra,llm_external
+200408,स्कूल के सामने सीवर का पानी जमा है और बच्चों को दूसरे रास्ते से जाना पड़ रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200409,हमारी गली में सुबह और शाम दोनों समय पानी का दबाव बहुत कम रहता है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200410,The waste collection van has not come to our street for five days,English,Garbage,Solid Waste Management,,train_extra,llm_external
+200411,चौराहे पर ट्रैफिक सिग्नल का एक हिस्सा ठीक से दिखाई नहीं देता और वाहन चालक भ्रमित होते हैं,Hindi,Other,Admin Review,,train_extra,llm_external
+200412,"स्कूल के सामने जमा गंदे पानी में मच्छर पैदा हो रहे हैं, कृपया तुरंत सफाई कराएं",Hindi,Drainage,Drainage and Sewerage,Public Health,train_extra,llm_external
+200413,पाण्याच्या टाकीजवळ कचरा साचला आहे आणि त्याच परिसरातून पाणीपुरवठा केला जात आहे,Hindi,Water Supply,Water Supply Department,Garbage,train_extra,llm_external
+200414,The pipe near the hospital entrance is leaking badly and water is flowing along the roadside,English,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200415,बाजार के पास सड़क की मरम्मत न होने से दुकानों के सामने आने-जाने में परेशानी हो रही है,Hindi,Roads,Public Works Department,,train_extra,llm_external
+200416,अस्पताल के सामने सीवेज का पानी पिछले तीन दिनों से जमा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200417,हमारी सोसायटी में दस दिनों से पानी का दबाव बहुत कम है और ऊपरी मंजिलों पर पानी नहीं पहुंचता,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200418,Water pressure has been very low in our lane for the past five days,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200419,"Please send a garbage collection vehicle to our area, no collection has happened for nearly a week",English,Garbage,Solid Waste Management,,train_extra,llm_external
+200420,बस स्टैंड पर कचरे के डिब्बे कम हैं और यात्रियों को कचरा रखने में परेशानी होती है,Hindi,Other,Admin Review,Garbage,train_extra,llm_external
+200421,"सोसायटी के पास जलभराव से मच्छरों की संख्या बढ़ गई है, कृपया तुरंत सफाई करवाएं",Hindi,Drainage,Drainage and Sewerage,Public Health,train_extra,llm_external
+200422,मृत्यु प्रमाण पत्र के लिए दिए गए आवेदन पर अभी तक कोई उत्तर नहीं मिला है,Hindi,Other,Admin Review,,train_extra,llm_external
+200423,Residents of our lane are getting dirty tap water for the third day in a row,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200424,"Please remove the waste near our society gate, it has been causing a bad smell for six days",English,Garbage,Solid Waste Management,,train_extra,llm_external
+200425,सोसायटी के गेट के पास पानी की पाइप बहुत ज्यादा लीक हो रही है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200426,"रेलवे स्टेशन जाने वाली सड़क पर कई गहरे गड्ढे हैं, कृपया तुरंत मरम्मत करवाएं",Hindi,Roads,Public Works Department,,train_extra,llm_external
+200427,"Dirty water is entering our taps after the supply resumes, please investigate the pipeline",English,Water Supply,Water Supply Department,,train_extra,llm_external
+200428,There is a large pothole infront of the society gate and cars are struggling to pass,English,Roads,Public Works Department,,train_extra,llm_external
+200429,बस में बहुत भीड़ रहती है और सुबह के समय यात्रियों के लिए पर्याप्त व्यवस्था नहीं है,Hindi,Other,Admin Review,,train_extra,llm_external
+200430,"बाजार में रात को तेज आवाज में संगीत बज रहा है, कृपया इसे तुरंत बंद करवाएं",Hindi,Other,Admin Review,,train_extra,llm_external
+200431,हमारी गली में नाली की सफाई नहीं हुई है और पिछले पांच दिनों से पानी जमा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200432,बस में महिलाओं और बुजुर्ग यात्रियों के लिए पर्याप्त बैठने की जगह नहीं मिलती,Hindi,Other,Admin Review,,train_extra,llm_external
+200433,स्कूल के पास बारिश का पानी निकल नहीं रहा और नाली पूरी तरह जाम है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200434,सोसायटी के गेट के पास पानी की पाइप से लगातार रिसाव हो रहा है और काफी पानी बर्बाद हो रहा है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200435,प्रमाण पत्र प्राप्त करने के लिए आवेदन की अंतिम स्थिति बताने की सुविधा चाहिए,Hindi,Other,Admin Review,,train_extra,llm_external
+200436,हमारी गली के पास कचरे का बड़ा ढेर आठ दिनों से नहीं हटाया गया है,Hindi,Garbage,Solid Waste Management,,train_extra,llm_external
+200437,सरकारी अस्पताल के पास कल शाम से पानी की सप्लाई बंद है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200438,मुख्य बाजार में जलभराव के कारण लोगों को दुकान तक पहुंचने में परेशानी हो रही है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200439,नगरपालिका से आवश्यक दस्तावेज लेने के लिए कई चक्कर लगाने पड़ रहे हैं,Hindi,Other,Admin Review,,train_extra,llm_external
+200440,The water supply near the bus stand has been weak for more than a week,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200441,हमारी गली में नलों से गंदा पानी आ रहा है और इसे इस्तेमाल करना मुश्किल है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200442,अस्पताल के पास नाली पिछले चार दिनों से बंद है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200443,नळाचे पाणी तपकिरी रंगाचे येत आहे आणि त्यात गाळ दिसत आहे,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200444,"हमारी गली में छह दिनों से कचरा नहीं उठाया गया है, कृपया कचरा संग्रहण वाहन भेजें",Hindi,Garbage,Solid Waste Management,,train_extra,llm_external
+200445,हमारी सोसायटी में लगभग दस दिनों से पानी का दबाव बहुत कम है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200446,सोसायटी के पीछे पानी निकासी बंद है और बारिश के बाद पूरा रास्ता भर जाता है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200447,बस स्टैंड के पास सड़क खराब है और बारिश के बाद उस जगह पानी जमा रहता है,Hindi,Roads,Public Works Department,Drainage,train_extra,llm_external
+200448,सोसायटी गेट के पास सीवेज का पानी जमा होने से रास्ता बहुत फिसलन भरा हो गया है,Hindi,Drainage,Drainage and Sewerage,Roads,train_extra,llm_external
+200449,"कॉलेज के पास पानी की सप्लाई कल रात से बंद है, कृपया तुरंत शुरू करवाएं",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200450,बाजार परिसरातील पाणीपुरवठ्याची वेळ अचानक कमी करण्यात आली आहे आणि दुकानदारांना पाणी साठवावे लागते,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200451,बस डिपो के पास पानी की लाइन खराब है और तत्काल मरम्मत की जरूरत है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200452,"बस स्टैंड के पास जमा पानी में मच्छर बहुत बढ़ गए हैं, कृपया तुरंत सफाई करवाएं",Hindi,Drainage,Drainage and Sewerage,Public Health,train_extra,llm_external
+200453,बाजार के कोने पर सीवर का पानी जमा है और पिछले छह दिनों से रास्ता खराब स्थिति में है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200454,"Our lane drain is blocked with plastic and mud, and rainwater is unable to flow away",English,Drainage,Drainage and Sewerage,Garbage,train_extra,llm_external
+200455,हमारे मोहल्ले में जलभराव तीन दिनों से बना हुआ है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200456,बस स्टैंड पर यात्रियों की संख्या के अनुसार बसों की व्यवस्था नहीं है,Hindi,Other,Admin Review,,train_extra,llm_external
+200457,There has been no water supply near the college since yesterday evening,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200458,सार्वजनिक पुस्तकालय के पास सड़क एक महीने से खराब है और नई सड़क की जरूरत है,Hindi,Roads,Public Works Department,,train_extra,llm_external
+200459,सोसायटी गेट के पास मुख्य पानी की पाइप टूटी हुई है और पानी लगातार बह रहा है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200460,हमारी सोसायटी में दस दिनों से पानी का दबाव कम है और ऊपरी मंजिल के लोग परेशान हैं,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200461,"सोसायटी गेट के पास नाले के पानी में मच्छर पनप रहे हैं, कृपया तुरंत सफाई करवाएं",Hindi,Drainage,Drainage and Sewerage,Public Health,train_extra,llm_external
+200462,शाळेजवळील सार्वजनिक नळाचे पाणी अचानक बंद झाले असून चार दिवसांपासून दुरुस्ती झालेली नाही,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200463,अस्पताल के पास सीवेज ओवरफ्लो होने से गंदा पानी सड़क पर फैल गया है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200464,"बस स्टैंड पर बसों की घोषणा सुनाई नहीं देती, यात्रियों को सही बस पता नहीं चलती",Hindi,Other,Admin Review,,train_extra,llm_external
+200465,हमारी गली में एक सप्ताह से पानी का दबाव बहुत कम है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200466,बस स्टैंड के पीछे खुली नाली का ढक्कन टूट गया है,Hindi,Drainage,Drainage and Sewerage,Roads,train_extra,llm_external
+200467,The municipal tap near the health centre has stopped providing water completely,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200468,सोसायटी गेट के पास कचरा छह दिनों से पड़ा है और बहुत बदबू आ रही है,Hindi,Garbage,Solid Waste Management,,train_extra,llm_external
+200469,हमारे इलाके में लगभग एक सप्ताह से कचरा संग्रहण नहीं हुआ है,Hindi,Garbage,Solid Waste Management,,train_extra,llm_external
+200470,"रात में बाजार के पास बहुत तेज आवाज में लाउडस्पीकर बजता है, कृपया इसकी जांच करें",Hindi,Other,Admin Review,,train_extra,llm_external
+200471,Garbage is being dumped beside the hospital and mosquitoes are increasing around the area,English,Garbage,Solid Waste Management,Public Health,train_extra,llm_external
+200472,स्कूल के पास सीवर का गंदा पानी जमा है और रास्ता बहुत फिसलन भरा हो गया है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200473,नल से भूरा पानी आ रहा है और यह समस्या कल से बनी हुई है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200474,"गल्लीतल्या नळातून आज अचानक पिवळसर पाणी आले, कृपया पाण्याची तपासणी करावी",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200475,बाजार के पास सीवर ओवरफ्लो होने से गंदा पानी सड़क पर फैल गया है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200476,बस स्टैंड के पीछे टूटे गटर से पानी सड़क पर बह रहा है,Hindi,Drainage,Drainage and Sewerage,Roads,train_extra,llm_external
+200477,"बाजार के पास नाले के पानी में मच्छर पनप रहे हैं, कृपया तुरंत सफाई और दवा का छिड़काव करवाएं",Hindi,Drainage,Drainage and Sewerage,Public Health,train_extra,llm_external
+200478,"अस्पताल के गेट के सामने नाली का पानी पिछले दो दिनों से जमा है, कृपया इसे साफ करें",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200479,हमारे इलाके में आज पानी नहीं है और स्थिति बहुत गंभीर होती जा रही है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200480,"स्कूल के पास रुका पानी मच्छरों का प्रजनन स्थल बन गया है, कृपया तुरंत सफाई करें",Hindi,Drainage,Drainage and Sewerage,Public Health,train_extra,llm_external
+200481,"अस्पताल के सामने जमा पानी में मच्छर बहुत हो गए हैं, कृपया तुरंत सफाई करवाएं",Hindi,Drainage,Drainage and Sewerage,Public Health,train_extra,llm_external
+200482,The water coming from our taps has become muddy after recent pipeline work,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200483,"बच्चों के स्कूल जाने के समय पानी की सप्लाई बंद रहती है, कृपया समय की समस्या हल करें",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200484,"अस्पताल के पीछे गंदे पानी की निकासी नहीं हो रही, कृपया तत्काल सफाई करवाएं",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200485,Dirty water is being supplied near the hospital and residents want the issue checked immediately,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200486,सार्वजनिक पुस्तकालय के पास सोमवार से नगरपालिका का पानी नहीं आया है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200487,The water supply near the health centre is irregular and sometimes stops completely,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200488,हमारी गली में सीवर का पानी पिछले तीन दिनों से जमा है और बदबू आ रही है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200489,बस डिपो के पास आज नगरपालिका की पानी की सप्लाई पूरी तरह बंद है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200490,"मुख्य गली में खुली नाली से गिरने का खतरा है, कृपया ढक्कन लगवाएं",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200491,Our lane is flooded whenever it rains because the drainage channel is full of silt,English,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200492,सोसायटी के प्रवेश द्वार के पास पानी की पाइप बहुत ज्यादा लीक हो रही है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200493,"हमारे घर में कल से नल का पानी पीला आ रहा है, कृपया पानी की गुणवत्ता की जांच कराएं",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200494,"Please clean the garbage near the vegetable market, the smell is becoming unbearable",English,Garbage,Solid Waste Management,,train_extra,llm_external
+200495,Household garbage has been lying outside our society for almost a week without collection,English,Garbage,Solid Waste Management,,train_extra,llm_external
+200496,प्रमाण पत्र बनवाने के लिए ऑनलाइन आवेदन करने के बाद अगला कदम समझ नहीं आता,Hindi,Other,Admin Review,,train_extra,llm_external
+200497,गली के मोड़ पर खुली नाली का ढक्कन टूट गया है और रात में वहां गिरने का खतरा है,Hindi,Drainage,Drainage and Sewerage,Roads,train_extra,llm_external
+200498,नगरपालिका कार्यालय के पास टूटी हुई पानी की पाइप की तुरंत मरम्मत करवाएं,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200499,बाजार के पीछे नाला पिछले पांच दिनों से बंद है और पानी सड़क पर जमा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200500,आमच्या सोसायटीत पाणी येते पण त्याचा दाब इतका कमी आहे की वरच्या मजल्यावरील नळातून पाणीच येत नाही,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200501,हमारी सोसायटी में पानी का दबाव बहुत कम है और टंकी भरने में काफी समय लगता है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200502,हमारे मोहल्ले में खुली नाली का ढक्कन टूट गया है और लोगों को बहुत सावधानी से चलना पड़ता है,Hindi,Drainage,Drainage and Sewerage,Roads,train_extra,llm_external
+200503,बस स्टैंड के पीछे गटर टूटने से पानी रास्ते पर फैल रहा है,Hindi,Drainage,Drainage and Sewerage,Roads,train_extra,llm_external
+200504,बस स्टैंड की नाली का ढक्कन टूटकर सड़क के किनारे पड़ा है और वहां से गुजरना मुश्किल है,Hindi,Drainage,Drainage and Sewerage,Roads,train_extra,llm_external
+200505,The pipe near the bus stop has burst and water is flowing continuously onto the road,English,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200506,"कृपया बाजार के पास सड़क की मरम्मत करें, कई जगह डामर पूरी तरह उखड़ गया है",Hindi,Roads,Public Works Department,,train_extra,llm_external
+200507,पानी का दबाव कम होने के कारण ऊपरी मंजिलों की टंकियां ठीक से नहीं भर रही हैं,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200508,स्कूल के रास्ते में नाली का पानी बह रहा है और फुटपाथ पर सामान रखे होने से रास्ता और संकरा हो गया है,Hindi,Drainage,Drainage and Sewerage,Encroachment,train_extra,llm_external
+200509,प्रमाण पत्र के लिए जमा किए गए दस्तावेजों की जांच में बहुत ज्यादा समय लग रहा है,Hindi,Other,Admin Review,,train_extra,llm_external
+200510,The pressure in the municipal water line has become very low since last Friday,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200511,"Please check the low pressure in our lane, the overhead tanks are not filling properly",English,Water Supply,Water Supply Department,,train_extra,llm_external
+200512,"Sewage is overflowing from the manhole near the society gate, please send a team urgently",English,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200513,सोसायटी के बाहर सीवेज का पानी पिछले तीन दिनों से जमा है और बदबू बहुत तेज है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200514,सोसायटी के पास सीवेज का पानी जमा होने से दुर्गंध फैल रही है और लोग परेशान हैं,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200515,"बस स्टॉप के पास कचरा हटाएं, पास की स्ट्रीट लाइट भी खराब है और रात में जगह अंधेरी रहती है",Hindi,Garbage,Solid Waste Management,Streetlight,train_extra,llm_external
+200516,हमारे इलाके में पानी की समस्या के साथ पास की नाली में भी पानी जमा हो रहा है,Hindi,Water Supply,Water Supply Department,Drainage,train_extra,llm_external
+200517,आमच्या भागात सकाळी पाणी येते पण दाब खूपच कमी असल्यामुळे बादल्या भरायला बराच वेळ लागतो,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200518,"Waterlogging near the market has become a daily issue for the last five days, even without heavy rain",English,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200519,A water pipeline has been leaking near the market for more than a week and a lot of water is being wasted,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200520,The water leak near the vegetable market has been reported before but is still not repaired,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200521,Our society entrance is surrounded by uncollected waste and the smell is getting worse,English,Garbage,Solid Waste Management,,train_extra,llm_external
+200522,गली में जलभराव के कारण लोग सड़क पर चल रहे हैं और कई वाहन गड्ढों में फंस रहे हैं,Hindi,Drainage,Drainage and Sewerage,Roads,train_extra,llm_external
+200523,सोसायटी के प्रवेश द्वार के पास पानी की लाइन टूटी हुई लग रही है और पानी बर्बाद हो रहा है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200524,नगरपालिका का पानी पिछले दो दिनों से भूरा आ रहा है और इसका उपयोग करना मुश्किल है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200525,"अस्पताल के पास की बस्ती में तीन दिन से पानी की सप्लाई बंद है, मरीजों के परिवारों को बहुत परेशानी हो रही है",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200526,सोसायटी के पीछे नाली टूटने से पानी सड़क पर फैल रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200527,बस डिपो के पास सड़क पर बड़े-बड़े गड्ढे हैं और भारी वाहनों के कारण हालत और खराब हो रही है,Hindi,Roads,Public Works Department,,train_extra,llm_external
+200528,"बाजार में देर रात तक तेज आवाज में प्रचार किया जाता है, कृपया समय सीमा तय करें",Hindi,Other,Admin Review,,train_extra,llm_external
+200529,The water pressure near the market is so low that the upper floors receive almost nothing,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200530,स्कूल की पिछली गली में नाली बंद है और पास की पानी की पाइप में भी रिसाव हो रहा है,Hindi,Drainage,Drainage and Sewerage,Water Supply,train_extra,llm_external
+200531,हमारे क्षेत्र में जलभराव की समस्या हर बारिश में होती है और इस बार चार दिन से पानी नहीं निकला,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200532,बाजार के पीछे सीवेज का पानी पिछले चार दिनों से जमा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200533,नगरपालिका कार्यालय के पास के नल से गंदा पानी आ रहा है और जांच की जरूरत है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200534,"स्कूल के पास पानी की लाइन की जांच करें, चार दिनों से नलों में पानी नहीं आ रहा है",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200535,गली में नाली का ढक्कन खुला है और रात में वहां गिरने का डर रहता है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200536,बाजार के पास सीवेज की पाइपलाइन में समस्या है और पिछले पांच दिनों से पानी बाहर आ रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200537,"हमारे बाजार की नाली में प्लास्टिक और कचरा फंसा है, सफाई न होने से गंदा पानी जमा है",Hindi,Drainage,Drainage and Sewerage,Garbage,train_extra,llm_external
+200538,Dirty water is coming from our household taps and we are afraid to use it for drinking,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200539,नगरपालिका की किसी सामान्य सेवा के बारे में जानकारी लेने पर अलग-अलग जवाब मिलते हैं,Hindi,Other,Admin Review,,train_extra,llm_external
+200540,बस स्टैंड के पास बारिश का पानी जमा है और नाली की सफाई जरूरी है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200541,बाजार के पास पानी की लाइन लीक है और आसपास की जमीन पूरे दिन गीली रहती है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200542,The open drain near the public garden has no proper cover and it is dangerous for children,English,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200543,The taps near the public hospital are receiving very little water since last Monday,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200544,"हमारी गली में आज पानी नहीं आया है, कृपया पानी की सप्लाई जल्द शुरू करवाएं",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200545,बारिश के बाद हमारे नलों से मटमैला पानी आ रहा है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200546,अस्पताल के मुख्य गेट के पास सीवर ओवरफ्लो हो रहा है और बदबू फैल रही है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200547,The public bin near the market is overflowing and needs to be emptied daily,English,Garbage,Solid Waste Management,,train_extra,llm_external
+200548,"आमच्या सोसायटीत कालपासून पाणीपुरवठा पूर्णपणे बंद आहे, कृपया तातडीने उपाय करा",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200549,हमारी गली में चार दिनों से पानी नहीं आया है और निवासी बहुत परेशान हैं,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200550,A water pipe is leaking beside the hospital and the surrounding road is becoming damaged,English,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200551,"सब्जी बाजार के पास कचरा साफ करें, बदबू अब बहुत ज्यादा हो गई है",Hindi,Garbage,Solid Waste Management,,train_extra,llm_external
+200552,बाजार के पास सड़क पर बड़े गड्ढे हैं और आसपास की स्ट्रीट लाइटें कई रातों से झिलमिला रही हैं,Hindi,Roads,Public Works Department,Streetlight,train_extra,llm_external
+200553,हमारी गली में पांच दिनों से कचरा नहीं उठाया गया है और बहुत बदबू आ रही है,Hindi,Garbage,Solid Waste Management,,train_extra,llm_external
+200554,सरकारी कार्यालय के पास सड़क बहुत खराब है और यह समस्या लगभग पांच सप्ताह से चल रही है,Hindi,Roads,Public Works Department,,train_extra,llm_external
+200555,"बस डिपो के पास तीन दिनों से पानी की सप्लाई बंद है, कृपया तुरंत कार्रवाई करें",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200556,खेल मैदान के पास सड़क बहुत असमान है और कई बड़े दरार वाले हिस्से हैं,Hindi,Roads,Public Works Department,,train_extra,llm_external
+200557,The traffic signal near the junction appears confusing during the evening rush,English,Other,Admin Review,,train_extra,llm_external
+200558,The road near the vegetable market is full of potholes and needs urgent repair,English,Roads,Public Works Department,,train_extra,llm_external
+200559,गली के मोड़ पर नाली टूट गई है और उसका पानी सड़क पर फैल रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200560,सब्जी बाजार के पास पानी का दबाव कल से बहुत कम हो गया है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200561,Garbage collection has stopped in our lane for the past four days and the smell is very bad,English,Garbage,Solid Waste Management,,train_extra,llm_external
+200562,हमारी गली में आज सुबह से पानी नहीं आया है और बच्चों को स्कूल जाने में परेशानी हो रही है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200563,आमच्या गल्लीत पाण्याची पाइपलाइन जुनी असल्याने वारंवार गळती होते आणि पुरवठा बंद करावा लागतो,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200564,"नळाचे पाणी वापरल्यानंतर त्वचेवर खाज येत असल्याची तक्रार अनेक घरांमधून होत आहे, कृपया तपासणी करा",Hindi,Water Supply,Water Supply Department,Public Health,train_extra,llm_external
+200565,"नळाचे पाणी पिवळसर असल्यामुळे नागरिक ते पिण्यासाठी वापरत नाहीत, कृपया त्वरित तपासणी करावी",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200566,बाजार के पास सीवेज ओवरफ्लो हो रहा है और पिछले दो दिनों से स्थिति खराब है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200567,"अस्पताल के पीछे सीवर ओवरफ्लो हो रहा है, कृपया तुरंत कार्रवाई करें",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200568,स्कूल के गेट के सामने नाली बंद होने से बदबूदार पानी रास्ते में बह रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200569,Our society received no water today and this has happened repeatedly during the last week,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200570,"हमारे क्षेत्र में रात के समय लगातार तेज आवाज आती है, कृपया शोर की समस्या पर कार्रवाई करें",Hindi,Other,Admin Review,,train_extra,llm_external
+200571,खेल मैदान के पास सड़क पर मैनहोल का ढक्कन गायब है और बच्चे रोज वहां से गुजरते हैं,Hindi,Roads,Public Works Department,,train_extra,llm_external
+200572,आमच्या परिसरातील पाइपलाइनमधून पाणी रस्त्यावर वाहत असल्यामुळे नागरिकांना चालताना त्रास होत आहे,Hindi,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200573,अस्पताल के पीछे जलभराव के कारण मच्छर बढ़ गए हैं और मरीजों के परिजन परेशान हैं,Hindi,Drainage,Drainage and Sewerage,Public Health,train_extra,llm_external
+200574,सोसायटी के पास जमा पानी से मच्छरों की संख्या बढ़ गई है,Hindi,Drainage,Drainage and Sewerage,Public Health,train_extra,llm_external
+200575,सोसायटी के पास नाली के ऊपर सामान रखे होने से सफाई का काम रुक गया है,Hindi,Drainage,Drainage and Sewerage,Encroachment,train_extra,llm_external
+200576,"सोसायटी के पीछे नाली में कचरा और मिट्टी भर गई है, इसलिए पानी नहीं निकल रहा",Hindi,Drainage,Drainage and Sewerage,Garbage,train_extra,llm_external
+200577,सोसायटी के आसपास नाली जाम होने से बारिश का पानी नीचे वाले हिस्से में भर रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200578,Our area has received no water since last night and the problem needs urgent attention,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200579,"बाजार के पास मुख्य पानी की लाइन की जांच करें, कई घरों में पानी नहीं पहुंच रहा है",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200580,"पाणी येते तेव्हा काही वेळाने अचानक मातीमिश्रित पाणी येऊ लागते, त्यामुळे ते वापरता येत नाही",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200581,हमारे मोहल्ले में जलभराव चार दिनों से बना हुआ है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200582,"हमारे इलाके में नाली की सफाई कई दिनों से नहीं हुई, पानी में दुर्गंध आने लगी है",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200583,बस स्टैंड के पीछे खुला नाला बहुत गहरा है और उसका किनारा भी टूट चुका है,Hindi,Drainage,Drainage and Sewerage,Roads,train_extra,llm_external
+200584,"अस्पताल के पीछे सीवेज का पानी पिछले तीन दिनों से बह रहा है, कृपया तत्काल कार्रवाई करें",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200585,बाजार के पास जलभराव के कारण पैदल चलना कठिन है और मच्छर भी बहुत हो गए हैं,Hindi,Drainage,Drainage and Sewerage,Public Health,train_extra,llm_external
+200586,सार्वजनिक पुस्तकालय के पास पाइपलाइन लीक हो रही है और पानी बर्बाद हो रहा है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200587,बस स्टैंड पर यात्रियों के लिए पर्याप्त जानकारी और सहायता उपलब्ध नहीं है,Hindi,Other,Admin Review,,train_extra,llm_external
+200588,हमारे इलाके में शाम के बाद तेज शोर की शिकायत लगातार बढ़ रही है,Hindi,Other,Admin Review,,train_extra,llm_external
+200589,Sewage is overflowing near the school wall and children are passing through the dirty water every morning,English,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200590,"दोन दिवसांपासून नळातून काळसर पाणी येत आहे, हे पाणी वापरणे धोकादायक वाटत आहे",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200591,चौराहे पर ट्रैफिक सिग्नल के पास कचरा जमा रहता है और पूरा क्षेत्र असुविधाजनक लगता है,Hindi,Other,Admin Review,Garbage,train_extra,llm_external
+200592,सोसायटी के पीछे नाला टूट गया है और गंदा पानी लगातार बह रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200593,अस्पताल के सामने नाली बंद होने से पिछले दो दिनों से पानी जमा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200594,बारिश के बाद हमारी सोसायटी के पास सड़क के किनारे टूट गए हैं और पत्थर फैल गए हैं,Hindi,Roads,Public Works Department,,train_extra,llm_external
+200595,"रहिवासी वसाहतीत मागील चार दिवसांपासून पाण्याचा पुरवठा अनियमित आहे, कृपया लक्ष द्या",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200596,रस्त्याच्या कडेला असलेल्या पाइपमधून मोठी गळती होत आहे आणि जवळच्या नाल्यात पाणी भरत आहे,Hindi,Water Supply,Water Supply Department,Drainage,train_extra,llm_external
+200597,रेलवे स्टेशन के पास सार्वजनिक कूड़ेदान भर गया है और लोग उसके पास कचरे की थैलियां रख रहे हैं,Hindi,Garbage,Solid Waste Management,,train_extra,llm_external
+200598,सोसायटी के सामने नाली की सफाई में बाधा आ रही है क्योंकि फुटपाथ पर सामान रखा है,Hindi,Drainage,Drainage and Sewerage,Encroachment,train_extra,llm_external
+200599,The gutter behind the hospital is full and dirty water has been standing there for nearly a week,English,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200600,"सोसायटी के प्रवेश द्वार के पास टूटी सड़क को जल्द ठीक किया जाए, किसी के घायल होने का डर है",Hindi,Roads,Public Works Department,,train_extra,llm_external
+200601,स्कूल के सामने नाली पिछले पांच दिनों से बंद है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200602,पानी की सप्लाई सुबह बहुत देर से शुरू होती है और केवल थोड़ी देर में बंद हो जाती है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200603,बस स्टैंड पर बसें समय पर नहीं आतीं और यात्रियों को काफी देर तक इंतजार करना पड़ता है,Hindi,Other,Admin Review,,train_extra,llm_external
+200604,"स्कूल के सामने नाली से पानी बह रहा है, कृपया इसे जल्द साफ करवाएं",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200605,हमारे मोहल्ले में नाली जाम होने के कारण पानी सड़क पर भर गया है और सड़क भी टूट रही है,Hindi,Drainage,Drainage and Sewerage,Roads,train_extra,llm_external
+200606,नगरपालिका की कचरा गाड़ी पिछले गुरुवार से हमारी गली में नहीं आई है,Hindi,Garbage,Solid Waste Management,,train_extra,llm_external
+200607,"नगरपालिका कार्यालय में शिकायत देने के बाद संबंधित विभाग तक मामला पहुंचा या नहीं, पता नहीं चलता",Hindi,Other,Admin Review,,train_extra,llm_external
+200608,बाजार के चौराहे पर सिग्नल ठीक नहीं है और पास की स्ट्रीट लाइट भी बंद है,Hindi,Other,Admin Review,Streetlight,train_extra,llm_external
+200609,नगरपालिका के सामान्य शिकायत केंद्र पर फोन करने के बाद भी कोई उचित जानकारी नहीं मिली,Hindi,Other,Admin Review,,train_extra,llm_external
+200610,The leaking pipeline near the hospital is wasting water and creating a wet patch beside the road,English,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200611,"कृपया हमारी गली में पानी की सप्लाई बहाल करें, कल से पानी नहीं आया है",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200612,पाण्याची पाइप फुटल्यामुळे घरासमोरील रस्त्यावर सतत पाणी वाहत आहे आणि तो भाग घसरडा झाला आहे,Hindi,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200613,"पाणीपुरवठा सुरू होण्याची वेळ रोज बदलत आहे, त्यामुळे कामावर जाणाऱ्या लोकांना खूप अडचण होते",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200614,बस स्टैंड के पीछे नाली टूटने से सड़क पर पानी बह रहा है,Hindi,Drainage,Drainage and Sewerage,Roads,train_extra,llm_external
+200615,हमारी गली में लगभग दो सप्ताह से पानी का दबाव बहुत कम है और ऊपरी मंजिलों पर पानी नहीं पहुंचता,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200616,सोसायटी की नाली में गंदगी भरने से पानी का बहाव रुक गया है और बदबू आने लगी है,Hindi,Drainage,Drainage and Sewerage,Garbage,train_extra,llm_external
+200617,हमारी गली के नल से पानी में तेज गंध आ रही है और लोग इसे पीने से बच रहे हैं,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200618,अस्पताल के पास पिछले तीन दिनों से पानी का दबाव बहुत कम है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200619,"There is a large pothole near the municipal school gate, and two-wheelers are struggling to pass safely",English,Roads,Public Works Department,,train_extra,llm_external
+200620,गेल्या आठवड्यापासून पाण्याचा दाब कमी असल्यामुळे घरातील वॉशिंगची आणि स्वयंपाकाची कामे रखडली आहेत,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200621,पाण्याचा पुरवठा कमी असल्यामुळे वृद्ध नागरिकांना दूरच्या ठिकाणाहून पाणी आणावे लागत आहे,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200622,सोसायटी की नाली पिछले चार दिनों से उफन रही है और गंदा पानी प्रवेश द्वार तक आ गया है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200623,The waste bin near the market has been full for several days and the area is becoming unhygienic,English,Garbage,Solid Waste Management,,train_extra,llm_external
+200624,हमारी सोसायटी में आज सुबह से पानी नहीं आया है और कई घर प्रभावित हैं,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200625,हमारे नलों में एक सप्ताह से गंदा और बदबूदार पानी आ रहा है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200626,There has been no water supply near the school since yesterday morning and the issue is urgent,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200627,"हमारी गली में नल का पानी मटमैला और बदबूदार हो गया है, कृपया इसकी जांच करवाएं",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200628,पाण्याची पाइप फुटल्याने रस्त्यावर चिखल झाला आहे आणि जवळून जाणाऱ्या वाहनांना अडचण होत आहे,Hindi,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200629,बस स्थानकाजवळील घरांमध्ये चार दिवसांपासून पाणी अनियमित येत आहे,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200630,हमारी गली में कल से पानी नहीं आया है और यह समस्या बहुत जरूरी है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200631,अस्पताल के पास पानी की पाइप लीक हो रही है और पानी सड़क पर फैल रहा है,Hindi,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200632,"Kindly restore the supply near the college, there has been no water since last night",English,Water Supply,Water Supply Department,,train_extra,llm_external
+200633,हमारी सोसायटी में लगभग एक सप्ताह से पर्याप्त पानी नहीं मिल रहा है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200634,मुख्य रस्त्याच्या बाजूला पाण्याची पाइप फुटली आहे आणि त्यातून दिवसभर पाणी वाहत आहे,Hindi,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200635,"बाजार के पीछे जलभराव पिछले तीन दिनों से बना हुआ है, कृपया नाली की सफाई करवाएं",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200636,सोसायटी की नाली में कचरा जमा होने से पानी रुक गया है,Hindi,Drainage,Drainage and Sewerage,Garbage,train_extra,llm_external
+200637,अस्पताल के पास नाली का पानी पिछले तीन दिनों से जमा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200638,हमारे मोहल्ले में सीवेज का पानी पिछले दो दिनों से जमा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200639,The water pressure near the college has been low for five days and upper floors are affected,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200640,आमच्या भागातील पाण्याची पाइपलाइन फुटल्यामुळे रस्ता खराब झाला असून पाणी सतत वाहत आहे,Hindi,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200641,"Please repair the pipeline near the bus stand, water has been leaking there for almost a week",English,Water Supply,Water Supply Department,,train_extra,llm_external
+200642,बस की कमी के कारण विद्यार्थियों को कॉलेज पहुंचने में रोज देर हो जाती है,Hindi,Other,Admin Review,,train_extra,llm_external
+200643,हमारी सड़क पर पिछले पांच दिनों से कचरा उठाने वाली गाड़ी नहीं आई है,Hindi,Garbage,Solid Waste Management,,train_extra,llm_external
+200644,अस्पताल के पास आज पानी नहीं आया है और कई परिवार सप्लाई का इंतजार कर रहे हैं,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200645,मुख्य बाजार के पास नाला ओवरफ्लो होने से गंदा पानी सड़क पर फैल गया है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200646,"स्कूल के पास पाइपलाइन पिछले सप्ताह से लीक हो रही है, कृपया इसे ठीक करवाएं",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200647,Water pressure in our society suddenly became low last week and has not improved,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200648,The light near the society gate has been flickering for several days and residents are worried about safety,English,Streetlight,Electrical Department,,train_extra,llm_external
+200649,"सप्लाई शुरू होने के बाद नलों से गंदा पानी आ रहा है, कृपया पाइपलाइन की जांच करें",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200650,Water pressure has dropped sharply near the hospital for the last three days,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200651,स्कूल गेट के पास पानी जमा रहने से बच्चों को रोज गंदे पानी से होकर गुजरना पड़ता है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200652,सोसायटी के पीछे सीवेज ओवरफ्लो हो रहा है और पानी पार्किंग तक पहुंच गया है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200653,बाजार में नाली की सफाई नहीं होने से पानी और गंदगी दोनों जमा हो रहे हैं,Hindi,Drainage,Drainage and Sewerage,Garbage,train_extra,llm_external
+200654,Water supply near the school has stopped completely for the last two days,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200655,"गेल्या सहा दिवसांपासून पाणीपुरवठा फक्त काही वेळासाठी होत आहे, कृपया कायमस्वरूपी उपाय करा",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200656,सोसायटी के सामने नाली बंद है और वहां की स्ट्रीट लाइट भी कई दिनों से बंद पड़ी है,Hindi,Drainage,Drainage and Sewerage,Streetlight,train_extra,llm_external
+200657,बाजार की गली में सीवर का पानी दो दिनों से बह रहा है और स्थिति बहुत खराब है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200658,अस्पताल के सामने की नाली में कीचड़ जमा है और पानी धीरे-धीरे भी नहीं निकल रहा,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200659,बाजार के पास नाली टूटने से गंदा पानी सड़क पर बह रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200660,"अस्पताल के पीछे नाली पिछले चार दिनों से बंद है, कृपया जल्द सफाई करें",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200661,"स्कूल के पास नाली के ऊपर ठेले लगे हैं, इसलिए पानी की निकासी रुक गई है",Hindi,Drainage,Drainage and Sewerage,Encroachment,train_extra,llm_external
+200662,हमारी गली की नाली साफ नहीं होने के कारण पिछले तीन दिनों से पानी रुका हुआ है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200663,An open dumping spot has developed near the playground and children have to pass through it,English,Garbage,Solid Waste Management,,train_extra,llm_external
+200664,बाजार के पास सीवर का पानी सड़क पर बह रहा है और दुकानदार परेशान हैं,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200665,बाजार का कूड़ेदान भर गया है और दुकानदारों ने अतिरिक्त कचरा फुटपाथ पर रख दिया है,Hindi,Garbage,Solid Waste Management,Encroachment,train_extra,llm_external
+200666,अस्पताल के पास सीवेज का पानी पिछले तीन दिनों से जमा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200667,"ट्रैफिक सिग्नल के पास वाहन खड़े रहने से स्थिति और खराब हो जाती है, कृपया निगरानी बढ़ाएं",Hindi,Other,Admin Review,,train_extra,llm_external
+200668,हमारी गली में जलभराव के कारण सड़क टूट रही है और वाहन चलाना मुश्किल हो रहा है,Hindi,Drainage,Drainage and Sewerage,Roads,train_extra,llm_external
+200669,The footpath near the hospital has been blocked by several temporary food stalls,English,Encroachment,Building Permission and Encroachment,,train_extra,llm_external
+200670,बाजार के पास कूड़ेदान कई दिनों से भरा हुआ है और आसपास का क्षेत्र बहुत गंदा हो गया है,Hindi,Garbage,Solid Waste Management,,train_extra,llm_external
+200671,"Please restore the water connection to our street, the supply has been absent since Sunday",English,Water Supply,Water Supply Department,,train_extra,llm_external
+200672,There is a water pipeline leak near the public library that has been wasting water since last week,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200673,Our area has had no water supply since yesterday morning and residents are struggling to manage basic needs,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200674,"बाजार के पास सीवर लाइन से पानी बाहर निकल रहा है, कृपया इसे जल्द ठीक करवाएं",Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200675,The gutter near the bus stand is full of waste and cannot carry rainwater properly,English,Drainage,Drainage and Sewerage,Garbage,train_extra,llm_external
+200676,मुख्य सड़क पर जलभराव के कारण यातायात धीमा हो गया है और नाली की सफाई जरूरी है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200677,The municipal bin near the college has not been emptied for almost one week,English,Garbage,Solid Waste Management,,train_extra,llm_external
+200678,Household waste is being dumped near our lane and the road is becoming narrower because of it,English,Garbage,Solid Waste Management,Roads,train_extra,llm_external
+200679,आमच्या गल्लीतील पाण्याची पाइप जुनी झाल्यामुळे वारंवार गळती होत आहे,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200680,बस स्टैंड के पास रहने वाले लोगों को पिछले तीन दिनों से कम दबाव में पानी मिल रहा है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200681,There is a large pile of garbage beside our lane that has not been removed for eight days,English,Garbage,Solid Waste Management,,train_extra,llm_external
+200682,स्कूल के पास घरों में बहुत कम मात्रा में पानी पहुंच रहा है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200683,अस्पताल के पास इस सप्ताह लगातार पानी का दबाव कम रहा है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200684,There is no water near the hospital today and many families are waiting for the supply,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200685,The municipal pipeline near the market needs urgent repair because water is leaking continuously,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200686,स्कूल के पास की नाली में मिट्टी भर गई है और पानी का बहाव पूरी तरह रुक गया है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200687,"सोसायटी गेट के पास पानी की पाइप छह दिनों से लीक हो रही है, कृपया मरम्मत करवाएं",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200688,सोसायटीच्या टाकीत पुरेसे पाणी भरले जात नसल्यामुळे गेल्या पाच दिवसांपासून पाण्याची कमतरता आहे,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200689,अस्पताल की गली में जलभराव की समस्या पिछले तीन दिनों से है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200690,अस्पताल के पास जलभराव एक सप्ताह से बना हुआ है और आने वाले मरीजों को दिक्कत हो रही है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200691,"Please repair the broken drain near the market, vehicles are splashing dirty water onto pedestrians",English,Drainage,Drainage and Sewerage,Roads,train_extra,llm_external
+200692,Water from the taps has a muddy appearance and unpleasant smell,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200693,Water from the household taps looks dirty and contains small particles,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200694,खेल मैदान के पास खुले में कचरा जमा हो गया है और बच्चों को वहां से गुजरना पड़ता है,Hindi,Garbage,Solid Waste Management,,train_extra,llm_external
+200695,Household waste is being dumped openly behind the school and the area smells terrible,English,Garbage,Solid Waste Management,,train_extra,llm_external
+200696,आमच्या सोसायटीत पाण्याचा दाब इतका कमी आहे की वरच्या मजल्यावर पाणी पोहोचत नाही,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200697,हमारी गली में गहरे गड्ढों के कारण ऑटो और बाइक से यात्रा करना बहुत मुश्किल है,Hindi,Roads,Public Works Department,,train_extra,llm_external
+200698,बस स्टैंड के पास मुख्य सड़क के कई हिस्से क्षतिग्रस्त हैं और पूरी सड़क की मरम्मत चाहिए,Hindi,Roads,Public Works Department,,train_extra,llm_external
+200699,हमारी सोसायटी के गेट के पास नाली का पानी पिछले एक सप्ताह से जमा है और आने-जाने में परेशानी हो रही है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200700,"स्कूल के पीछे रुके पानी में मच्छर बहुत हो गए हैं, कृपया नाली की सफाई करें",Hindi,Drainage,Drainage and Sewerage,Public Health,train_extra,llm_external
+200701,सोसायटी के पास सीवेज लाइन जाम होने के कारण गंदा पानी सड़क तक पहुंच गया है,Hindi,Drainage,Drainage and Sewerage,Roads,train_extra,llm_external
+200702,हमारी गली में पानी की मुख्य पाइप टूट गई है और सड़क पर लगातार पानी बह रहा है,Hindi,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200703,"बाजार की गली में पानी की सप्लाई नियमित करवाएं, पिछले कुछ दिनों से बार-बार रुक रही है",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200704,The municipal water supply near the bus depot is completely unavailable today,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200705,सब्जी बाजार के पास कल से पानी का दबाव बहुत कम है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200706,गली में नाली का पानी सड़क पर बह रहा है और कचरा भी उसके साथ फैल रहा है,Hindi,Drainage,Drainage and Sewerage,Garbage,train_extra,llm_external
+200707,Water from the overflowing drain has reached the society parking area and damaged some stored materials,English,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200708,स्कूल के पीछे नाली का पानी रुका है और मच्छरों की समस्या बढ़ गई है,Hindi,Drainage,Drainage and Sewerage,Public Health,train_extra,llm_external
+200709,स्वास्थ्य केंद्र के पास पानी गंदा आ रहा है और कल से इसका इस्तेमाल नहीं किया जा रहा है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200710,"पाण्याचा रंग गेल्या काही दिवसांपासून बदलला आहे, कृपया पाण्याची तपासणी करून योग्य कारवाई करा",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200711,सोसायटी के अंदर नाली जाम होने से बारिश का पानी नीचे वाले हिस्से में जमा हो गया है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200712,"स्कूल के पास नाले में पानी और कचरा दोनों जमा हैं, जिससे रास्ते पर दुर्गंध फैल रही है",Hindi,Drainage,Drainage and Sewerage,Garbage,train_extra,llm_external
+200713,नगरपालिका के नल से आने वाला पानी गंदा है और उसका स्वाद भी अलग लग रहा है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200714,बस सेवा बंद होने के कारण विद्यार्थियों को रोज आने जाने में कठिनाई हो रही है,Hindi,Other,Admin Review,,train_extra,llm_external
+200715,The municipal collection vehicle has not come to our lane since last Thursday,English,Garbage,Solid Waste Management,,train_extra,llm_external
+200716,आमच्या भागातील पाइपलाइनवर अतिक्रमणामुळे दुरुस्तीचे काम होत नाही आणि पाणीपुरवठा वारंवार खंडित होतो,Hindi,Water Supply,Water Supply Department,Encroachment,train_extra,llm_external
+200717,"Please take immediate action, sewage has been overflowing near the market for two days and the smell is terrible",English,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200718,स्कूल के पास नल के पानी में बदबू आ रही है और लोग इसे पीने से बच रहे हैं,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200719,बस स्टैंड के पास पिछले एक सप्ताह से पानी की सप्लाई बहुत कमजोर है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200720,"Please check the water line near the bus depot, several houses have very low pressure",English,Water Supply,Water Supply Department,,train_extra,llm_external
+200721,स्कूल के आसपास तीन दिनों से पानी की सप्लाई ठीक नहीं है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200722,बस स्टैंड पर यात्रियों के बैठने के लिए जगह बहुत कम है और बुजुर्गों को कठिनाई होती है,Hindi,Other,Admin Review,,train_extra,llm_external
+200723,An open manhole near the public garden has no proper cover and people are avoiding that side of the road,English,Roads,Public Works Department,,train_extra,llm_external
+200724,सार्वजनिक पुस्तकालय के पास चार दिनों से नल का पानी गंदा आ रहा है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200725,हमारे मोहल्ले में नाली की सफाई नहीं होने से हर बारिश में पानी घरों के सामने भर जाता है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200726,स्कूल के पीछे नाला जाम होने से बारिश का पानी मैदान के पास जमा हो गया है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200727,स्कूल के सामने ट्रैफिक सिग्नल अचानक बंद हो जाता है और स्ट्रीट लाइट भी कमजोर है,Hindi,Other,Admin Review,Streetlight,train_extra,llm_external
+200728,चौराहे पर सिग्नल का समय सही नहीं होने से पैदल चलने वालों को भी इंतजार करना पड़ता है,Hindi,Other,Admin Review,,train_extra,llm_external
+200729,हमारी सोसायटी में आज तय समय पर पानी नहीं आया,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200730,सोसायटी के पीछे सीवर ओवरफ्लो हो रहा है और गंदा पानी रास्ते में फैल रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200731,The municipal water supply has been irregular for almost a month and residents are frustrated,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200732,Water pressure in our lane has been weak for nearly two weeks and upper-floor homes are badly affected,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200733,गली के कोने पर नाली टूट गई है और लगातार पानी बहने से आसपास की मिट्टी भी बह रही है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200734,नळाला येणारे पाणी खूप खारट लागते आणि वापरल्यानंतर भांड्यांवर पांढरा थर राहतो,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200735,"हमारी गली में सड़क पर गहरे गड्ढे हैं, जिससे एम्बुलेंस और अन्य वाहनों को भी निकलने में परेशानी होती है",Hindi,Roads,Public Works Department,,train_extra,llm_external
+200736,शाळेच्या मागील गल्लीत पाण्याची पाइप फुटली असून रस्त्यावर दिवसभर पाणी वाहत आहे,Hindi,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200737,पिछले पांच दिनों से पानी की आवक बहुत कम है और घर के सभी काम रुक गए हैं,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200738,पानी का दबाव बहुत कम होने के कारण ऊपरी मंजिलों की टंकियां ठीक से नहीं भर रही हैं,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200739,अस्पताल के पास सुबह से पानी की सप्लाई बंद है और मरीजों के परिवार परेशान हैं,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200740,बस स्टैंड के पास कूड़ेदान होने के बावजूद लोग उसके बाहर कचरा फेंक रहे हैं,Hindi,Garbage,Solid Waste Management,,train_extra,llm_external
+200741,हमारे मोहल्ले में पिछले एक सप्ताह से जलभराव है और शिकायत के बाद भी सफाई नहीं हुई,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200742,पाणीपुरवठा बंद असल्यामुळे परिसरातील लोकांना दूरवरून पाणी आणावे लागत आहे आणि कचऱ्याजवळ रांगा लागतात,Hindi,Water Supply,Water Supply Department,Garbage,train_extra,llm_external
+200743,A water pipe near the college is leaking continuously and needs urgent attention,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200744,बस स्टैंड पर कूड़ेदान कम होने से यात्रियों को कचरा रखने में परेशानी होती है,Hindi,Other,Admin Review,Garbage,train_extra,llm_external
+200745,The tap water near the hospital is dirty and several mosquitoes are present around the leaking pipe,English,Water Supply,Water Supply Department,Public Health,train_extra,llm_external
+200746,The school area has not received proper water supply for three days,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200747,The main road near the bus stand has several damaged sections and needs proper resurfacing,English,Roads,Public Works Department,,train_extra,llm_external
+200748,हमारी गली में गहरे गड्ढे हैं और रात में स्ट्रीट लाइट बंद होने से समस्या और बढ़ जाती है,Hindi,Roads,Public Works Department,Streetlight,train_extra,llm_external
+200749,मुख्य पाइपमधून गळती होत असल्यामुळे रस्त्यावर पाणी साचते आणि बाजूची नालीही भरून वाहते,Hindi,Water Supply,Water Supply Department,Drainage,train_extra,llm_external
+200750,हमारी सोसायटी में आज निर्धारित समय पर पानी नहीं आया,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200751,Our society has no water today despite the scheduled morning supply,English,Water Supply,Water Supply Department,,train_extra,llm_external
+200752,नगरपालिका मैदान के पास सड़क हाल के नाली के काम के बाद और खराब हो गई है,Hindi,Roads,Public Works Department,,train_extra,llm_external
+200753,अस्पताल के पास जमा गंदे पानी के कारण मच्छर बढ़ रहे हैं और दुर्गंध भी फैल रही है,Hindi,Drainage,Drainage and Sewerage,Public Health,train_extra,llm_external
+200754,"रुग्णालयाच्या परिसरातील घरांना कालपासून पाणी मिळालेले नाही, ही बाब तातडीने सोडवावी",Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200755,स्कूल के पास नल का पानी धुंधला और बदबूदार है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200756,घर के पास की पाइपलाइन से रिसाव होने के कारण सड़क पर कीचड़ जमा हो गया है और आने-जाने में परेशानी है,Hindi,Water Supply,Water Supply Department,Roads,train_extra,llm_external
+200757,पाण्यात दुर्गंधी येत असल्याने अनेक कुटुंबांनी ते वापरणे बंद केले आहे,Hindi,Water Supply,Water Supply Department,Public Health,train_extra,llm_external
+200758,बाजार के किनारे नाली टूट गई है और पानी सड़क की तरफ बह रहा है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200759,पाण्याची टाकी जवळपास रिकामी राहते आणि त्यामुळे सकाळच्या वेळेत नागरिकांची मोठी गैरसोय होते,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
+200760,पिछले एक सप्ताह से सोसायटी गेट के पास पानी भरा हुआ है और रास्ता कीचड़ से भर गया है,Hindi,Drainage,Drainage and Sewerage,,train_extra,llm_external
+200761,हमारे इलाके में पानी का दबाव अचानक कम हो गया है और यह समस्या एक सप्ताह से है,Hindi,Water Supply,Water Supply Department,,train_extra,llm_external
